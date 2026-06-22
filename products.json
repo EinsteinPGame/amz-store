@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Crown Zenith Loose Pack",
+    "category": "Loose Pack",
+    "language": "EN",
+    "stock": 245,
+    "set": "Crown Zenith",
+    "price_sgd": 31.0,
+    "price_idr": 422840
+  },
+  {
+    "id": 2,
+    "name": "Evolving Skies Loose Pack",
+    "category": "Loose Pack",
+    "language": "EN",
+    "stock": 36,
+    "set": "Evolving Skies",
+    "price_sgd": 62.0,
+    "price_idr": 845680
+  },
+  {
+    "id": 3,
+    "name": "151 ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 8,
+    "set": "151",
+    "price_sgd": 820.0,
+    "price_idr": 11184800
+  },
+  {
+    "id": 4,
+    "name": "25th Celebration ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 17,
+    "set": "25th Celebration",
+    "price_sgd": 580.0,
+    "price_idr": 7911200
+  },
+  {
+    "id": 5,
+    "name": "Brilliant Stars ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 3,
+    "set": "Brilliant Stars",
+    "price_sgd": 260.0,
+    "price_idr": 3546400
+  },
+  {
+    "id": 6,
+    "name": "Brilliant Stars Pokemon Center ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Brilliant Stars",
+    "price_sgd": 470.0,
+    "price_idr": 6410800
+  },
+  {
+    "id": 7,
+    "name": "Burning Shadow ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 2,
+    "set": "Burning Shadow",
+    "price_sgd": 600.0,
+    "price_idr": 8184000
+  },
+  {
+    "id": 8,
+    "name": "Charizard XY Elite Trainer Box",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Charizard XY",
+    "price_sgd": 1300.0,
+    "price_idr": 17732000
+  },
+  {
+    "id": 9,
+    "name": "Chilling Reign ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 2,
+    "set": "Chilling Reign",
+    "price_sgd": 380.0,
+    "price_idr": 5183200
+  },
+  {
+    "id": 10,
+    "name": "Crimson Invasion ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Crimson Invasion",
+    "price_sgd": 480.0,
+    "price_idr": 6547200
+  },
+  {
+    "id": 11,
+    "name": "Crown Zenith ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 10,
+    "set": "Crown Zenith",
+    "price_sgd": 440.0,
+    "price_idr": 6001600
+  },
+  {
+    "id": 12,
+    "name": "Destiny Rivals ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Destiny Rivals",
+    "price_sgd": 235.0,
+    "price_idr": 3205400
+  },
+  {
+    "id": 13,
+    "name": "Evolving Skies Booster Box",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Evolving Skies",
+    "price_sgd": 3300.0,
+    "price_idr": 45012000
+  },
+  {
+    "id": 14,
+    "name": "Evolving Skies ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Evolving Skies",
+    "price_sgd": 730.0,
+    "price_idr": 9957200
+  },
+  {
+    "id": 15,
+    "name": "Evolving Skies ETB Set",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 2,
+    "set": "Evolving Skies",
+    "price_sgd": 1600.0,
+    "price_idr": 21824000
+  },
+  {
+    "id": 16,
+    "name": "First Partner Illustration Collection",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 20,
+    "set": "First Partner Illustration",
+    "price_sgd": 76.0,
+    "price_idr": 1036640
+  },
+  {
+    "id": 17,
+    "name": "Hidden Fates ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 3,
+    "set": "Hidden Fates",
+    "price_sgd": 740.0,
+    "price_idr": 10093600
+  },
+  {
+    "id": 18,
+    "name": "Lost Origin ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Lost Origin",
+    "price_sgd": 332.0,
+    "price_idr": 4528480
+  },
+  {
+    "id": 19,
+    "name": "Paldea Evolved Booster Box",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 6,
+    "set": "Paldea Evolved",
+    "price_sgd": 630.0,
+    "price_idr": 8593200
+  },
+  {
+    "id": 20,
+    "name": "Paldea Evolved ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 14,
+    "set": "Paldea Evolved",
+    "price_sgd": 323.14,
+    "price_idr": 4407630
+  },
+  {
+    "id": 21,
+    "name": "Paldean Fates ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 13,
+    "set": "Paldean Fates",
+    "price_sgd": 570.62,
+    "price_idr": 7783257
+  },
+  {
+    "id": 22,
+    "name": "Paldean Fates Pokemon Center ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 3,
+    "set": "Paldean Fates",
+    "price_sgd": 880.0,
+    "price_idr": 12003200
+  },
+  {
+    "id": 23,
+    "name": "Prismatic ETB",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 26,
+    "set": "Prismatic",
+    "price_sgd": 230.0,
+    "price_idr": 3137200
+  },
+  {
+    "id": 24,
+    "name": "Twilight Masquerade Booster Box",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Twilight Masquerade",
+    "price_sgd": 428.0,
+    "price_idr": 5837920
+  },
+  {
+    "id": 25,
+    "name": "Unbroken Bonds Booster Box",
+    "category": "Sealed",
+    "language": "EN",
+    "stock": 1,
+    "set": "Unbroken Bonds",
+    "price_sgd": 3300.0,
+    "price_idr": 45012000
+  }
+]
