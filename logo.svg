@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80">
+  <!-- Pokeball accent -->
+  <circle cx="40" cy="40" r="28" fill="#ef4444" stroke="#1a1a2e" stroke-width="3"/>
+  <rect x="12" y="37" width="56" height="6" fill="#1a1a2e"/>
+  <circle cx="40" cy="40" r="8" fill="#fff" stroke="#1a1a2e" stroke-width="3"/>
+  <path d="M12 40 A28 28 0 0 1 68 40" fill="#ef4444"/>
+  <path d="M12 40 A28 28 0 0 0 68 40" fill="#fff"/>
+  <rect x="12" y="37" width="56" height="6" fill="#1a1a2e"/>
+  <circle cx="40" cy="40" r="8" fill="#fff" stroke="#1a1a2e" stroke-width="3"/>
+  <circle cx="40" cy="40" r="4" fill="#1a1a2e"/>
+  <!-- AMZ text -->
+  <text x="82" y="52" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="42" font-weight="800" fill="#f0c040" letter-spacing="2">AMZ</text>
+  <!-- Collectible text -->
+  <text x="200" y="52" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8e8e8" letter-spacing="1">collectible</text>
+</svg>

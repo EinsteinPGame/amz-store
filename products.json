@@ -7,7 +7,8 @@
     "stock": 245,
     "set": "Crown Zenith",
     "price_sgd": 31.0,
-    "price_idr": 422840
+    "price_idr": 422840,
+    "image": "https://awesomeccg.com/cdn/shop/products/PKMN-BPACK-CRZ_1024x.png?v=1743097457"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "stock": 36,
     "set": "Evolving Skies",
     "price_sgd": 62.0,
-    "price_idr": 845680
+    "price_idr": 845680,
+    "image": "https://retrogamerepairshop.com/cdn/shop/products/bc88ffba-dc18-56a3-b08e-b13282c30210.jpg?v=1673452895"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "stock": 8,
     "set": "151",
     "price_sgd": 820.0,
-    "price_idr": 11184800
+    "price_idr": 11184800,
+    "image": "https://collectorstore.com/cdn/shop/files/pokemon-scarlet-violet-151-elite-trainer-box-397218.jpg?v=1739913252"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "stock": 17,
     "set": "25th Celebration",
     "price_sgd": 580.0,
-    "price_idr": 7911200
+    "price_idr": 7911200,
+    "image": "https://collectorstore.com/cdn/shop/files/pokemon-celebrations-elite-trainer-box-369157.jpg?v=1733735048"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "stock": 3,
     "set": "Brilliant Stars",
     "price_sgd": 260.0,
-    "price_idr": 3546400
+    "price_idr": 3546400,
+    "image": "https://cravecollect.com/cdn/shop/files/Brilliant-Stars-ETB---Pokemon_0f4a6d23-5e99-42ea-a9a8-e2e64b0ea394.jpg?v=1715721420"
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "stock": 1,
     "set": "Brilliant Stars",
     "price_sgd": 470.0,
-    "price_idr": 6410800
+    "price_idr": 6410800,
+    "image": "https://doubleinfinitygaming.com/cdn/shop/files/71bfXVhDD1L.jpg?v=1745600648"
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "stock": 2,
     "set": "Burning Shadow",
     "price_sgd": 600.0,
-    "price_idr": 8184000
+    "price_idr": 8184000,
+    "image": "https://cravecollect.com/cdn/shop/files/034FD322-F2A4-4C4E-8248-6C581733AB0F.jpg?v=1724455659"
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "stock": 1,
     "set": "Charizard XY",
     "price_sgd": 1300.0,
-    "price_idr": 17732000
+    "price_idr": 17732000,
+    "image": "https://cravecollect.com/cdn/shop/files/817c3bWOr7L._AC_SX679.jpg?v=1690232225"
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "stock": 2,
     "set": "Chilling Reign",
     "price_sgd": 380.0,
-    "price_idr": 5183200
+    "price_idr": 5183200,
+    "image": "https://cravecollect.com/cdn/shop/files/chilling.jpg?v=1715751172"
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "stock": 1,
     "set": "Crimson Invasion",
     "price_sgd": 480.0,
-    "price_idr": 6547200
+    "price_idr": 6547200,
+    "image": "https://collectorstore.com/cdn/shop/files/pokemon-crimson-invasion-elite-trainer-box-285196.jpg?v=1738220250"
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "stock": 10,
     "set": "Crown Zenith",
     "price_sgd": 440.0,
-    "price_idr": 6001600
+    "price_idr": 6001600,
+    "image": "https://www.kasecollect.com/cdn/shop/products/PokemonTCGSwordShield--CrownZenithEliteTrainerBox_EN-1201x1147-049f4fb.png?v=1669353403"
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@
     "stock": 1,
     "set": "Destiny Rivals",
     "price_sgd": 235.0,
-    "price_idr": 3205400
+    "price_idr": 3205400,
+    "image": "https://collectorstore.com/cdn/shop/files/pokemon-scarlet-violet-destined-rivals-elite-trainer-box-releasing-5-30-2025-233508.jpg?v=1748056603"
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@
     "stock": 1,
     "set": "Evolving Skies",
     "price_sgd": 3300.0,
-    "price_idr": 45012000
+    "price_idr": 45012000,
+    "image": "https://www.maziply.com/cdn/shop/products/pokemon-sword-and-shield-evolving-skies-booster-box_grande.jpg?v=1759261233"
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@
     "stock": 1,
     "set": "Evolving Skies",
     "price_sgd": 730.0,
-    "price_idr": 9957200
+    "price_idr": 9957200,
+    "image": "https://www.maziply.com/cdn/shop/products/pokemon-sword-and-shield-evolving-skies-elite-trainer-box-glaceon-vaporeon-sylveon-and-espeon-main_grande.jpg?v=1759261237"
   },
   {
     "id": 15,
@@ -147,7 +161,8 @@
     "stock": 2,
     "set": "Evolving Skies",
     "price_sgd": 1600.0,
-    "price_idr": 21824000
+    "price_idr": 21824000,
+    "image": "https://www.hobby-addicts.com/cdn/shop/products/Pokemon_TCG_Sword_Shield_Evolving_Skies_Elite_Trainer_Box_Eevee_Evolutions_3_863x.png?v=1662832831"
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@
     "stock": 20,
     "set": "First Partner Illustration",
     "price_sgd": 76.0,
-    "price_idr": 1036640
+    "price_idr": 1036640,
+    "image": "https://collectorstore.com/cdn/shop/files/Screenshot-2026-03-16-142758.jpg?v=1773689525"
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@
     "stock": 3,
     "set": "Hidden Fates",
     "price_sgd": 740.0,
-    "price_idr": 10093600
+    "price_idr": 10093600,
+    "image": "https://www.kasecollect.com/cdn/shop/products/Hidden-Fates-Elite-Trainer-Box-Contents.jpg?v=1564386963"
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@
     "stock": 1,
     "set": "Lost Origin",
     "price_sgd": 332.0,
-    "price_idr": 4528480
+    "price_idr": 4528480,
+    "image": "https://collectorstore.com/cdn/shop/files/pokemon-sword-shield-lost-origin-elite-trainer-box-483486.jpg?v=1727285646"
   },
   {
     "id": 19,
@@ -187,7 +205,8 @@
     "stock": 6,
     "set": "Paldea Evolved",
     "price_sgd": 630.0,
-    "price_idr": 8593200
+    "price_idr": 8593200,
+    "image": "https://www.maziply.com/cdn/shop/files/pokemon-tcg-scarlet-violet-paldea-evolved-booster-display-box-36-packs_grande.jpg?v=1759276677"
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@
     "stock": 14,
     "set": "Paldea Evolved",
     "price_sgd": 323.14,
-    "price_idr": 4407630
+    "price_idr": 4407630,
+    "image": "https://cravecollect.com/cdn/shop/files/peetb.png?v=1737483617"
   },
   {
     "id": 21,
@@ -207,7 +227,8 @@
     "stock": 13,
     "set": "Paldean Fates",
     "price_sgd": 570.62,
-    "price_idr": 7783257
+    "price_idr": 7783257,
+    "image": "https://collectorstore.com/cdn/shop/files/pokemon-scarlet-violet-paldean-fates-elite-trainer-box-645592.jpg?v=1727285493"
   },
   {
     "id": 22,
@@ -217,7 +238,8 @@
     "stock": 3,
     "set": "Paldean Fates",
     "price_sgd": 880.0,
-    "price_idr": 12003200
+    "price_idr": 12003200,
+    "image": "https://cravecollect.com/cdn/shop/files/Paldean-Fates-Pokemon-Center-Elite-Trainer-Box-_ETB_---Pokemon.jpg?v=1715716686"
   },
   {
     "id": 23,
@@ -227,7 +249,8 @@
     "stock": 26,
     "set": "Prismatic",
     "price_sgd": 230.0,
-    "price_idr": 3137200
+    "price_idr": 3137200,
+    "image": "https://collectorstore.com/cdn/shop/files/pokemon-scarlet-violet-prismatic-evolutions-elite-trainer-box-944806.png?v=1737025268"
   },
   {
     "id": 24,
@@ -237,7 +260,8 @@
     "stock": 1,
     "set": "Twilight Masquerade",
     "price_sgd": 428.0,
-    "price_idr": 5837920
+    "price_idr": 5837920,
+    "image": "https://www.maziply.com/cdn/shop/files/pokemon-tcg-twilight-masquerade-booster-box-36-packs_grande.jpg?v=1762453839"
   },
   {
     "id": 25,
@@ -247,6 +271,7 @@
     "stock": 1,
     "set": "Unbroken Bonds",
     "price_sgd": 3300.0,
-    "price_idr": 45012000
+    "price_idr": 45012000,
+    "image": "https://cravecollect.com/cdn/shop/files/185717.webp?v=1690244618"
   }
 ]

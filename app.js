@@ -100,8 +100,13 @@
       );
       const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${waMessage}`;
 
+      const imgHtml = p.image
+        ? `<div class="product-img"><img src="${p.image}" alt="${escapeHtml(p.name)}" loading="lazy"></div>`
+        : `<div class="product-img product-img-placeholder"><span>No Image</span></div>`;
+
       return `
         <div class="product-card">
+          ${imgHtml}
           <div class="badges">
             <span class="badge ${catBadge}">${p.category}</span>
             <span class="badge ${langBadge}">${p.language}</span>
