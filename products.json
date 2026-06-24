@@ -7,8 +7,9 @@
     "language": "JPN",
     "stock": 1,
     "price": 1076000,
-    "order": 49,
-    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/infoproduct-img-1-high.jpg"
+    "order": 31,
+    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/infoproduct-img-1-high.jpg",
+    "release_date": "2025-03-28"
   },
   {
     "id": "BOX-047",
@@ -18,8 +19,9 @@
     "language": "",
     "stock": 1,
     "price": 1718750,
-    "order": 58,
-    "image": "https://nipponfigures.com/cdn/shop/files/Japanese_Pokemon_Cards_-_Abyss_Eye_M5_Booster_Box.webp?v=1776497303"
+    "order": 35,
+    "image": "https://nipponfigures.com/cdn/shop/files/Japanese_Pokemon_Cards_-_Abyss_Eye_M5_Booster_Box.webp?v=1776497303",
+    "release_date": "2025-11-14"
   },
   {
     "id": "BOX-046",
@@ -29,8 +31,9 @@
     "language": "",
     "stock": 6,
     "price": 4950000,
-    "order": 57,
-    "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me02/product-showcase/inline/booster-display-box-en.png"
+    "order": 39,
+    "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me02/product-showcase/inline/booster-display-box-en.png",
+    "release_date": "2026-05-22"
   },
   {
     "id": "BOX-045",
@@ -40,8 +43,9 @@
     "language": "CN",
     "stock": 10,
     "price": 1100000,
-    "order": 56,
-    "image": "https://pokeunlimited.com/cdn/shop/files/pokemon-tcg-gemstone-horizons-vol1-booster-box-s-chinese-3653845.jpg?v=1778171605"
+    "order": 30,
+    "image": "https://pokeunlimited.com/cdn/shop/files/pokemon-tcg-gemstone-horizons-vol1-booster-box-s-chinese-3653845.jpg?v=1778171605",
+    "release_date": "2025-01-17"
   },
   {
     "id": "BOX-036",
@@ -51,8 +55,9 @@
     "language": "Indonesia",
     "stock": 3,
     "price": 1750000,
-    "order": 47,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png"
+    "order": 34,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png",
+    "release_date": "2025-07-25"
   },
   {
     "id": "BOX-037",
@@ -62,8 +67,9 @@
     "language": "JPN",
     "stock": 76,
     "price": 1382213,
-    "order": 48,
-    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/product-img-01-high.jpg"
+    "order": 36,
+    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/product-img-01-high.jpg",
+    "release_date": "2025-11-28"
   },
   {
     "id": "BOX-027",
@@ -73,8 +79,9 @@
     "language": "English",
     "stock": 2,
     "price": 5514500,
-    "order": 46,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv03-elite-trainer-box/sv03-elite-trainer-box-169-en.png"
+    "order": 22,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv03-elite-trainer-box/sv03-elite-trainer-box-169-en.png",
+    "release_date": "2023-08-11"
   },
   {
     "id": "OP-BOX02",
@@ -84,8 +91,9 @@
     "language": "",
     "stock": 1,
     "price": 4606250,
-    "order": 119,
-    "image": "https://en.onepiece-cardgame.com/renewal/images/products/boosters/op05/img_item01.webp"
+    "order": 24,
+    "image": "https://en.onepiece-cardgame.com/renewal/images/products/boosters/op05/img_item01.webp",
+    "release_date": "2023-12-08"
   },
   {
     "id": "OP-BOX01",
@@ -95,8 +103,9 @@
     "language": "",
     "stock": 14,
     "price": 10890000,
-    "order": 118,
-    "image": "https://en.onepiece-cardgame.com/renewal/images/products/boosters/op13/img_item01.webp"
+    "order": 35,
+    "image": "https://en.onepiece-cardgame.com/renewal/images/products/boosters/op13/img_item01.webp",
+    "release_date": "2025-11-07"
   },
   {
     "id": "BOX-040",
@@ -106,8 +115,9 @@
     "language": "JPN",
     "stock": 7,
     "price": 914550,
-    "order": 51,
-    "image": "https://www.tcghobby.com/cdn/shop/files/img_item02_1.webp?crop=center&height=500&v=1776399292&width=600"
+    "order": 33,
+    "image": "https://www.tcghobby.com/cdn/shop/files/img_item02_1.webp?crop=center&height=500&v=1776399292&width=600",
+    "release_date": "2025-07-26"
   },
   {
     "id": "BOX-026",
@@ -117,8 +127,9 @@
     "language": "English",
     "stock": 1,
     "price": 8662500,
-    "order": 45,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv02-elite-trainer-box/sv02-elite-trainer-box-169-en.png"
+    "order": 21,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv02-elite-trainer-box/sv02-elite-trainer-box-169-en.png",
+    "release_date": "2023-06-09"
   },
   {
     "id": "BOX-041",
@@ -128,8 +139,9 @@
     "language": "",
     "stock": 9,
     "price": 6785250,
-    "order": 52,
-    "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me02/product-showcase/inline/booster-display-box-en.png"
+    "order": 35,
+    "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me02/product-showcase/inline/booster-display-box-en.png",
+    "release_date": "2025-11-14"
   },
   {
     "id": "BOX-044",
@@ -139,8 +151,9 @@
     "language": "JPN",
     "stock": 52,
     "price": 3437500,
-    "order": 55,
-    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/vstaruniversepillow.png"
+    "order": 19,
+    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/vstaruniversepillow.png",
+    "release_date": "2022-12-02"
   },
   {
     "id": "BOX-042",
@@ -150,8 +163,9 @@
     "language": "JPN",
     "stock": 2,
     "price": 4537500,
-    "order": 53,
-    "image": "https://cdn11.bigcommerce.com/s-89ffd/images/stencil/728x728/products/98276/343085/4521329322698_00fd640fbf5ff23910d40baf7782ba40__84460.1638436979.jpg?c=2"
+    "order": 13,
+    "image": "https://cdn11.bigcommerce.com/s-89ffd/images/stencil/728x728/products/98276/343085/4521329322698_00fd640fbf5ff23910d40baf7782ba40__84460.1638436979.jpg?c=2",
+    "release_date": "2021-12-03"
   },
   {
     "id": "BOX-043",
@@ -161,8 +175,9 @@
     "language": "JPN",
     "stock": 4,
     "price": 2736250,
-    "order": 54,
-    "image": "https://hypercollectiblestcg.com/cdn/shop/files/OIP_38.webp?v=1762209798"
+    "order": 8,
+    "image": "https://hypercollectiblestcg.com/cdn/shop/files/OIP_38.webp?v=1762209798",
+    "release_date": "2020-11-20"
   },
   {
     "id": "BOX-039",
@@ -172,8 +187,9 @@
     "language": "JPN",
     "stock": 1,
     "price": 2192350,
-    "order": 50,
-    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/4521329424828_l-high.jpg?enable-io=true&enable=upscale&crop=1%3A1&width=800"
+    "order": 29,
+    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/4521329424828_l-high.jpg?enable-io=true&enable=upscale&crop=1%3A1&width=800",
+    "release_date": "2024-12-06"
   },
   {
     "id": "BUNDLE-008",
@@ -183,8 +199,9 @@
     "language": "English",
     "stock": 18,
     "price": 3298762,
-    "order": 59,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv045-booster-bundle/sv045-booster-bundle-169-en.png"
+    "order": 23,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv045-booster-bundle/sv045-booster-bundle-169-en.png",
+    "release_date": "2023-09-22"
   },
   {
     "id": "BUNDLE-018",
@@ -194,8 +211,9 @@
     "language": "English",
     "stock": 10,
     "price": 1001250,
-    "order": 63,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10-booster-bundle/sv10-booster-bundle-169-en.png"
+    "order": 32,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10-booster-bundle/sv10-booster-bundle-169-en.png",
+    "release_date": "2025-05-30"
   },
   {
     "id": "BUNDLE-022",
@@ -205,8 +223,9 @@
     "language": "English",
     "stock": 268,
     "price": 1574400,
-    "order": 65,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "BUNDLE-021",
@@ -216,8 +235,9 @@
     "language": "English",
     "stock": 6,
     "price": 645600,
-    "order": 64,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me03-booster-bundle/me03-booster-bundle-169-en.png"
+    "order": 38,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me03-booster-bundle/me03-booster-bundle-169-en.png",
+    "release_date": "2026-03-27"
   },
   {
     "id": "BUNDLE-016",
@@ -227,8 +247,9 @@
     "language": "English",
     "stock": 50,
     "price": 1452600,
-    "order": 62,
-    "image": "https://assets.pokemon.com/static2/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-booster-bundle/sv8pt5-booster-bundle-169-en.png"
+    "order": 30,
+    "image": "https://assets.pokemon.com/static2/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-booster-bundle/sv8pt5-booster-bundle-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "BUNDLE-013",
@@ -238,8 +259,9 @@
     "language": "English",
     "stock": 2,
     "price": 734250,
-    "order": 60,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv6pt5-booster-bundle/sv6pt5-booster-bundle-169-us.png"
+    "order": 27,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv6pt5-booster-bundle/sv6pt5-booster-bundle-169-us.png",
+    "release_date": "2024-08-02"
   },
   {
     "id": "BUNDLE-015",
@@ -249,8 +271,9 @@
     "language": "English",
     "stock": 36,
     "price": 865089,
-    "order": 61,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv07-booster-bundle/sv07-booster-bundle-169-us.png"
+    "order": 29,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv07-booster-bundle/sv07-booster-bundle-169-us.png",
+    "release_date": "2024-11-08"
   },
   {
     "id": "BUNDLE-023",
@@ -260,8 +283,9 @@
     "language": "English",
     "stock": 6,
     "price": 2767079,
-    "order": 66,
-    "image": "https://assets.pokemon.com/static2/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-booster-bundle/sv8pt5-booster-bundle-169-en.png"
+    "order": 29,
+    "image": "https://assets.pokemon.com/static2/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-booster-bundle/sv8pt5-booster-bundle-169-en.png",
+    "release_date": "2024-11-08"
   },
   {
     "id": "ETB-034",
@@ -271,8 +295,9 @@
     "language": "English",
     "stock": 23,
     "price": 11454671,
-    "order": 20,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv035-elite-trainer-box/sv035-elite-trainer-box-169-en.png"
+    "order": 23,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv035-elite-trainer-box/sv035-elite-trainer-box-169-en.png",
+    "release_date": "2023-09-22"
   },
   {
     "id": "ETB-057",
@@ -282,8 +307,9 @@
     "language": "",
     "stock": 1,
     "price": 75625000,
-    "order": 41,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/xy8-etb/xy08-elite-trainer-justbox-169.jpg"
+    "order": 2,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/xy8-etb/xy08-elite-trainer-justbox-169.jpg",
+    "release_date": "2016-11-02"
   },
   {
     "id": "ETB-052",
@@ -293,8 +319,9 @@
     "language": "English",
     "stock": 3,
     "price": 7700000,
-    "order": 36,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/25th-elite-trainer-box/25th-elite-trainer-box-169-en.jpg"
+    "order": 14,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/25th-elite-trainer-box/25th-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-10-08"
   },
   {
     "id": "ETB-021",
@@ -304,8 +331,9 @@
     "language": "English",
     "stock": 1,
     "price": 3712500,
-    "order": 8,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh05-elite-trainer-box/swsh05-elite-trainer-box-169-en.png"
+    "order": 10,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh05-elite-trainer-box/swsh05-elite-trainer-box-169-en.png",
+    "release_date": "2021-03-19"
   },
   {
     "id": "ETB-045",
@@ -315,8 +343,9 @@
     "language": "English",
     "stock": 18,
     "price": 2485393,
-    "order": 29,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png"
+    "order": 33,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png",
+    "release_date": "2025-07-18"
   },
   {
     "id": "ETB-058",
@@ -326,8 +355,9 @@
     "language": "",
     "stock": 1,
     "price": 5775000,
-    "order": 42,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png"
+    "order": 7,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png",
+    "release_date": "2020-02-07"
   },
   {
     "id": "ETB-051",
@@ -337,8 +367,9 @@
     "language": "English",
     "stock": 3,
     "price": 5385417,
-    "order": 35,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh09-elite-trainer-box/swsh09-elite-trainer-box-169-en.jpg"
+    "order": 15,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh09-elite-trainer-box/swsh09-elite-trainer-box-169-en.jpg",
+    "release_date": "2022-02-25"
   },
   {
     "id": "ETB-025",
@@ -348,8 +379,9 @@
     "language": "English",
     "stock": 3,
     "price": 3368917,
-    "order": 12,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh09-elite-trainer-box/swsh09-elite-trainer-box-169-en.jpg"
+    "order": 15,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh09-elite-trainer-box/swsh09-elite-trainer-box-169-en.jpg",
+    "release_date": "2022-02-25"
   },
   {
     "id": "ETB-003",
@@ -359,8 +391,9 @@
     "language": "English",
     "stock": 1,
     "price": 7012500,
-    "order": 2,
-    "image": "https://assets.pokemon.com/static2/_ui/img/trading-card-game/series/incrementals/sm03-elite-trainer-box/sm3-elite-trainer-box-169.jpg"
+    "order": 3,
+    "image": "https://assets.pokemon.com/static2/_ui/img/trading-card-game/series/incrementals/sm03-elite-trainer-box/sm3-elite-trainer-box-169.jpg",
+    "release_date": "2017-08-04"
   },
   {
     "id": "ETB-018",
@@ -370,8 +403,9 @@
     "language": "English",
     "stock": 2,
     "price": 3300000,
-    "order": 5,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh035-elite-trainer-box/swsh035-elite-trainer-box-169-en.jpg"
+    "order": 7,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh035-elite-trainer-box/swsh035-elite-trainer-box-169-en.jpg",
+    "release_date": "2020-09-25"
   },
   {
     "id": "ETB-053",
@@ -381,8 +415,9 @@
     "language": "English",
     "stock": 13,
     "price": 1993750,
-    "order": 37,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me04-elite-trainer-box/me04-elite-trainer-box-169-en.png"
+    "order": 39,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me04-elite-trainer-box/me04-elite-trainer-box-169-en.png",
+    "release_date": "2026-05-22"
   },
   {
     "id": "ETB-022",
@@ -392,8 +427,9 @@
     "language": "English",
     "stock": 1,
     "price": 3162500,
-    "order": 9,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh06-elite-trainer-box/swsh06-elite-trainer-box-169-en.jpg"
+    "order": 11,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh06-elite-trainer-box/swsh06-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-06-18"
   },
   {
     "id": "ETB-013",
@@ -403,8 +439,9 @@
     "language": "English",
     "stock": 1,
     "price": 37812500,
-    "order": 4,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sm12-elite-trainer-box/sm12-elite-trainer-box-169-en.jpg"
+    "order": 6,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sm12-elite-trainer-box/sm12-elite-trainer-box-169-en.jpg",
+    "release_date": "2019-11-01"
   },
   {
     "id": "ETB-030",
@@ -414,8 +451,9 @@
     "language": "English",
     "stock": 14,
     "price": 5732800,
-    "order": 16,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh125-elite-trainer-box/swsh125-elite-trainer-box-169-en.png"
+    "order": 19,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh125-elite-trainer-box/swsh125-elite-trainer-box-169-en.png",
+    "release_date": "2023-01-20"
   },
   {
     "id": "ETBP-001",
@@ -425,8 +463,9 @@
     "language": "",
     "stock": 4,
     "price": 12289062,
-    "order": 120,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh125-elite-trainer-box/swsh125-elite-trainer-box-169-en.png"
+    "order": 19,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh125-elite-trainer-box/swsh125-elite-trainer-box-169-en.png",
+    "release_date": "2023-01-20"
   },
   {
     "id": "ETB-044",
@@ -436,8 +475,9 @@
     "language": "English",
     "stock": 9,
     "price": 3643750,
-    "order": 28,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10-elite-trainer-box/sv10-elite-trainer-box-169-en.png"
+    "order": 32,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10-elite-trainer-box/sv10-elite-trainer-box-169-en.png",
+    "release_date": "2025-05-30"
   },
   {
     "id": "ETB-023",
@@ -447,8 +487,9 @@
     "language": "English",
     "stock": 11,
     "price": 10209082,
-    "order": 10,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh07-elite-trainer-box/swsh07-elite-trainer-box-169-en.jpg"
+    "order": 12,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh07-elite-trainer-box/swsh07-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-08-27"
   },
   {
     "id": "ETB-024",
@@ -458,8 +499,9 @@
     "language": "English",
     "stock": 9,
     "price": 5721625,
-    "order": 11,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh08-elite-trainer-box/swsh08-elite-trainer-box-169-en.jpg"
+    "order": 13,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh08-elite-trainer-box/swsh08-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-11-12"
   },
   {
     "id": "ETB-012",
@@ -469,8 +511,9 @@
     "language": "English",
     "stock": 1,
     "price": 10112500,
-    "order": 3,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sm115-elite-trainer-box/tcg-sm115-elite-trainer-box-169-en.jpg"
+    "order": 5,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sm115-elite-trainer-box/tcg-sm115-elite-trainer-box-169-en.jpg",
+    "release_date": "2019-08-23"
   },
   {
     "id": "ETB-043",
@@ -480,8 +523,9 @@
     "language": "English",
     "stock": 7,
     "price": 1702000,
-    "order": 27,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv09-elite-trainer-box/sv09-elite-trainer-box-169-en.png"
+    "order": 31,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv09-elite-trainer-box/sv09-elite-trainer-box-169-en.png",
+    "release_date": "2025-03-28"
   },
   {
     "id": "ETB-028",
@@ -491,8 +535,9 @@
     "language": "English",
     "stock": 28,
     "price": 4470333,
-    "order": 14,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh11-elite-trainer-box/swsh11-elite-trainer-box-169-en.jpg"
+    "order": 17,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh11-elite-trainer-box/swsh11-elite-trainer-box-169-en.jpg",
+    "release_date": "2022-09-09"
   },
   {
     "id": "ETB-048",
@@ -502,8 +547,9 @@
     "language": "English",
     "stock": 118,
     "price": 2503225,
-    "order": 32,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-elite-trainer-box/me2pt5-elite-trainer-box-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-elite-trainer-box/me2pt5-elite-trainer-box-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "ETB-047",
@@ -513,8 +559,9 @@
     "language": "English",
     "stock": 6,
     "price": 2538542,
-    "order": 31,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me03-elite-trainer-box/me03-elite-trainer-box-169-en.png"
+    "order": 38,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me03-elite-trainer-box/me03-elite-trainer-box-169-en.png",
+    "release_date": "2026-03-27"
   },
   {
     "id": "ETB-033",
@@ -524,8 +571,9 @@
     "language": "English",
     "stock": 21,
     "price": 5227583,
-    "order": 19,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv03-elite-trainer-box/sv03-elite-trainer-box-169-en.png"
+    "order": 22,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv03-elite-trainer-box/sv03-elite-trainer-box-169-en.png",
+    "release_date": "2023-08-11"
   },
   {
     "id": "ETB-032",
@@ -535,8 +583,9 @@
     "language": "English",
     "stock": 2,
     "price": 4821667,
-    "order": 18,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv02-elite-trainer-box/sv02-elite-trainer-box-169-en.png"
+    "order": 21,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv02-elite-trainer-box/sv02-elite-trainer-box-169-en.png",
+    "release_date": "2023-06-09"
   },
   {
     "id": "ETB-036",
@@ -546,8 +595,9 @@
     "language": "English",
     "stock": 5,
     "price": 7159571,
-    "order": 22,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv045-elite-trainer-box/sv045-elite-trainer-box-169-en.png"
+    "order": 25,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv045-elite-trainer-box/sv045-elite-trainer-box-169-en.png",
+    "release_date": "2024-01-26"
   },
   {
     "id": "ETB-050",
@@ -557,8 +607,9 @@
     "language": "English",
     "stock": 5,
     "price": 11481250,
-    "order": 34,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv045-elite-trainer-box/sv045-elite-trainer-box-169-en.png"
+    "order": 25,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv045-elite-trainer-box/sv045-elite-trainer-box-169-en.png",
+    "release_date": "2024-01-26"
   },
   {
     "id": "ETB-035",
@@ -568,8 +619,9 @@
     "language": "English",
     "stock": 2,
     "price": 2184625,
-    "order": 21,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv04-elite-trainer-box/sv04-elite-trainer-box-169-en.png"
+    "order": 24,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv04-elite-trainer-box/sv04-elite-trainer-box-169-en.png",
+    "release_date": "2023-11-03"
   },
   {
     "id": "ETB-049",
@@ -579,8 +631,9 @@
     "language": "English",
     "stock": 29,
     "price": 2147903,
-    "order": 33,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/me02-elite-trainer-box/me02-elite-trainer-box-169-en.png"
+    "order": 35,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/me02-elite-trainer-box/me02-elite-trainer-box-169-en.png",
+    "release_date": "2025-11-14"
   },
   {
     "id": "ETB-055",
@@ -590,8 +643,9 @@
     "language": "English",
     "stock": 1,
     "price": 5885000,
-    "order": 39,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/go-elite-trainer-box/go-elite-trainer-box-169-en.png"
+    "order": 16,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/go-elite-trainer-box/go-elite-trainer-box-169-en.png",
+    "release_date": "2022-07-01"
   },
   {
     "id": "ETB-060",
@@ -601,8 +655,9 @@
     "language": "",
     "stock": 1,
     "price": 68062500,
-    "order": 44,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/xy8-etb/xy08-elite-trainer-justbox-169.jpg"
+    "order": 1,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/xy8-etb/xy08-elite-trainer-justbox-169.jpg",
+    "release_date": "2015-11-04"
   },
   {
     "id": "ETB-027",
@@ -612,8 +667,9 @@
     "language": "English",
     "stock": 1,
     "price": 2750000,
-    "order": 13,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/go-elite-trainer-box/go-elite-trainer-box-169-en.png"
+    "order": 16,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/go-elite-trainer-box/go-elite-trainer-box-169-en.png",
+    "release_date": "2022-07-01"
   },
   {
     "id": "ETB-042",
@@ -623,8 +679,9 @@
     "language": "English",
     "stock": 37,
     "price": 3297074,
-    "order": 26,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-elite-trainer-box/sv8pt5-elite-trainer-box-169-en.png"
+    "order": 30,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-elite-trainer-box/sv8pt5-elite-trainer-box-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "ETB-031",
@@ -634,8 +691,9 @@
     "language": "English",
     "stock": 4,
     "price": 2887500,
-    "order": 17,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv01-elite-trainer-box/sv01-elite-trainer-box-169-en.png"
+    "order": 20,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv01-elite-trainer-box/sv01-elite-trainer-box-169-en.png",
+    "release_date": "2023-03-31"
   },
   {
     "id": "ETB-020",
@@ -645,8 +703,9 @@
     "language": "English",
     "stock": 1,
     "price": 2750000,
-    "order": 7,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh045-elite-trainer-box/swsh045-elite-trainer-box-169-en.jpg"
+    "order": 9,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh045-elite-trainer-box/swsh045-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-02-19"
   },
   {
     "id": "ETB-039",
@@ -656,8 +715,9 @@
     "language": "English",
     "stock": 11,
     "price": 1482048,
-    "order": 23,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv6pt5-elite-trainer-box/sv6pt5-elite-trainer-box-169-en.png"
+    "order": 27,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv6pt5-elite-trainer-box/sv6pt5-elite-trainer-box-169-en.png",
+    "release_date": "2024-08-02"
   },
   {
     "id": "ETB-029",
@@ -667,8 +727,9 @@
     "language": "English",
     "stock": 11,
     "price": 3025000,
-    "order": 15,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh12-elite-trainer-box/swsh12-elite-trainer-box-169-en.jpg"
+    "order": 18,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh12-elite-trainer-box/swsh12-elite-trainer-box-169-en.jpg",
+    "release_date": "2022-11-11"
   },
   {
     "id": "ETB-040",
@@ -678,8 +739,9 @@
     "language": "English",
     "stock": 6,
     "price": 1368250,
-    "order": 24,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv07-elite-trainer-box/sv07-elite-trainer-box-169-en.png"
+    "order": 28,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv07-elite-trainer-box/sv07-elite-trainer-box-169-en.png",
+    "release_date": "2024-09-13"
   },
   {
     "id": "ETB-001",
@@ -689,8 +751,9 @@
     "language": "English",
     "stock": 3,
     "price": 4583333,
-    "order": 1,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sun_moon_etb/sm1-elite-trainer-box-169.jpg"
+    "order": 2,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sun_moon_etb/sm1-elite-trainer-box-169.jpg",
+    "release_date": "2017-02-03"
   },
   {
     "id": "ETB-041",
@@ -700,8 +763,9 @@
     "language": "English",
     "stock": 16,
     "price": 1827451,
-    "order": 25,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv08-elite-trainer-box/sv08-elite-trainer-box-169-en.png"
+    "order": 29,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv08-elite-trainer-box/sv08-elite-trainer-box-169-en.png",
+    "release_date": "2024-11-08"
   },
   {
     "id": "ETB-019",
@@ -711,8 +775,9 @@
     "language": "English",
     "stock": 1,
     "price": 4125000,
-    "order": 6,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh04-elite-trainer-box/swsh04-elite-trainer-box-169-en.jpg"
+    "order": 8,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh04-elite-trainer-box/swsh04-elite-trainer-box-169-en.jpg",
+    "release_date": "2020-11-13"
   },
   {
     "id": "ETB-059",
@@ -722,8 +787,9 @@
     "language": "",
     "stock": 1,
     "price": 5225000,
-    "order": 43,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png"
+    "order": 7,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png",
+    "release_date": "2020-02-07"
   },
   {
     "id": "ETB-046",
@@ -733,8 +799,9 @@
     "language": "English",
     "stock": 15,
     "price": 2293586,
-    "order": 30,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png"
+    "order": 33,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png",
+    "release_date": "2025-07-18"
   },
   {
     "id": "ETB-056",
@@ -744,8 +811,9 @@
     "language": "",
     "stock": 1,
     "price": 15262500,
-    "order": 40,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/xy12_etb/xy12-elite-trainer-box-169.jpg"
+    "order": 2,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/xy12_etb/xy12-elite-trainer-box-169.jpg",
+    "release_date": "2016-11-02"
   },
   {
     "id": "ETB-054",
@@ -755,8 +823,9 @@
     "language": "English",
     "stock": 1,
     "price": 17875000,
-    "order": 38,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/xy12_etb/xy12-elite-trainer-box-169.jpg"
+    "order": 2,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/xy12_etb/xy12-elite-trainer-box-169.jpg",
+    "release_date": "2016-11-02"
   },
   {
     "id": "ETBP-002",
@@ -766,8 +835,9 @@
     "language": "",
     "stock": 1,
     "price": 4812500,
-    "order": 121,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh-elite-trainer-box-plus-zacian-or-zamazenta/swsh-elite-trainer-box-plus-zacian-or-zamazenta-169-en.jpg"
+    "order": 8,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh-elite-trainer-box-plus-zacian-or-zamazenta/swsh-elite-trainer-box-plus-zacian-or-zamazenta-169-en.jpg",
+    "release_date": "2020-11-20"
   },
   {
     "id": "ETBP-003",
@@ -777,8 +847,9 @@
     "language": "",
     "stock": 1,
     "price": 4812500,
-    "order": 122,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh-elite-trainer-box-plus-zacian-or-zamazenta/swsh-elite-trainer-box-plus-zacian-or-zamazenta-169-en.jpg"
+    "order": 8,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh-elite-trainer-box-plus-zacian-or-zamazenta/swsh-elite-trainer-box-plus-zacian-or-zamazenta-169-en.jpg",
+    "release_date": "2020-11-20"
   },
   {
     "id": "LP-034",
@@ -788,8 +859,9 @@
     "language": "English",
     "stock": 194,
     "price": 524550,
-    "order": 94,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv035-elite-trainer-box/sv035-elite-trainer-box-169-en.png"
+    "order": 23,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv035-elite-trainer-box/sv035-elite-trainer-box-169-en.png",
+    "release_date": "2023-09-22"
   },
   {
     "id": "LP-057",
@@ -799,8 +871,9 @@
     "language": "",
     "stock": 190,
     "price": 618750,
-    "order": 110,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/25th-elite-trainer-box/25th-elite-trainer-box-169-en.jpg"
+    "order": 14,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/25th-elite-trainer-box/25th-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-10-08"
   },
   {
     "id": "LP-045",
@@ -810,8 +883,9 @@
     "language": "English",
     "stock": 508,
     "price": 178143,
-    "order": 102,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png"
+    "order": 33,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png",
+    "release_date": "2025-07-18"
   },
   {
     "id": "LP-025",
@@ -821,8 +895,9 @@
     "language": "English",
     "stock": 155,
     "price": 239912,
-    "order": 87,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh09-elite-trainer-box/swsh09-elite-trainer-box-169-en.jpg"
+    "order": 15,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh09-elite-trainer-box/swsh09-elite-trainer-box-169-en.jpg",
+    "release_date": "2022-02-25"
   },
   {
     "id": "LP-003",
@@ -832,8 +907,9 @@
     "language": "English",
     "stock": 15,
     "price": 1031250,
-    "order": 81,
-    "image": "https://assets.pokemon.com/static2/_ui/img/trading-card-game/series/incrementals/sm03-elite-trainer-box/sm3-elite-trainer-box-169.jpg"
+    "order": 3,
+    "image": "https://assets.pokemon.com/static2/_ui/img/trading-card-game/series/incrementals/sm03-elite-trainer-box/sm3-elite-trainer-box-169.jpg",
+    "release_date": "2017-08-04"
   },
   {
     "id": "LP-022",
@@ -843,8 +919,9 @@
     "language": "English",
     "stock": 178,
     "price": 188300,
-    "order": 84,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh06-elite-trainer-box/swsh06-elite-trainer-box-169-en.jpg"
+    "order": 11,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh06-elite-trainer-box/swsh06-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-06-18"
   },
   {
     "id": "LP-030",
@@ -854,8 +931,9 @@
     "language": "English",
     "stock": 59,
     "price": 426250,
-    "order": 90,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh125-elite-trainer-box/swsh125-elite-trainer-box-169-en.png"
+    "order": 19,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh125-elite-trainer-box/swsh125-elite-trainer-box-169-en.png",
+    "release_date": "2023-01-20"
   },
   {
     "id": "LP-044",
@@ -865,8 +943,9 @@
     "language": "English",
     "stock": 48,
     "price": 146980,
-    "order": 101,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10-elite-trainer-box/sv10-elite-trainer-box-169-en.png"
+    "order": 32,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10-elite-trainer-box/sv10-elite-trainer-box-169-en.png",
+    "release_date": "2025-05-30"
   },
   {
     "id": "LP-023",
@@ -876,8 +955,9 @@
     "language": "English",
     "stock": 7,
     "price": 807000,
-    "order": 85,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh07-elite-trainer-box/swsh07-elite-trainer-box-169-en.jpg"
+    "order": 12,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh07-elite-trainer-box/swsh07-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-08-27"
   },
   {
     "id": "LP-024",
@@ -887,8 +967,9 @@
     "language": "English",
     "stock": 192,
     "price": 340339,
-    "order": 86,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh08-elite-trainer-box/swsh08-elite-trainer-box-169-en.jpg"
+    "order": 13,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh08-elite-trainer-box/swsh08-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-11-12"
   },
   {
     "id": "LP-043",
@@ -898,8 +979,9 @@
     "language": "English",
     "stock": 24,
     "price": 105037,
-    "order": 100,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv09-elite-trainer-box/sv09-elite-trainer-box-169-en.png"
+    "order": 31,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv09-elite-trainer-box/sv09-elite-trainer-box-169-en.png",
+    "release_date": "2025-03-28"
   },
   {
     "id": "LP-028",
@@ -909,8 +991,9 @@
     "language": "English",
     "stock": 67,
     "price": 385000,
-    "order": 88,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh11-elite-trainer-box/swsh11-elite-trainer-box-169-en.jpg"
+    "order": 17,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh11-elite-trainer-box/swsh11-elite-trainer-box-169-en.jpg",
+    "release_date": "2022-09-09"
   },
   {
     "id": "LP-008",
@@ -920,8 +1003,9 @@
     "language": "English",
     "stock": 10,
     "price": 1306250,
-    "order": 82,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh125-elite-trainer-box/swsh125-elite-trainer-box-169-en.png"
+    "order": 4,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh125-elite-trainer-box/swsh125-elite-trainer-box-169-en.png",
+    "release_date": "2018-11-02"
   },
   {
     "id": "LP-049",
@@ -931,8 +1015,9 @@
     "language": "Japan",
     "stock": 11,
     "price": 102800,
-    "order": 105,
-    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/product-img-01-high.jpg"
+    "order": 36,
+    "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/product-img-01-high.jpg",
+    "release_date": "2025-11-28"
   },
   {
     "id": "LP-055",
@@ -942,8 +1027,9 @@
     "language": "",
     "stock": 79,
     "price": 121050,
-    "order": 108,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "LP-048",
@@ -953,8 +1039,9 @@
     "language": "English",
     "stock": 2329,
     "price": 233839,
-    "order": 104,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "LP-050",
@@ -964,8 +1051,9 @@
     "language": "Japan",
     "stock": 100,
     "price": 28918,
-    "order": 106,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png"
+    "order": 33,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png",
+    "release_date": "2025-08-01"
   },
   {
     "id": "LP-056",
@@ -975,8 +1063,9 @@
     "language": "",
     "stock": 100,
     "price": 32952,
-    "order": 109,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png"
+    "order": 33,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png",
+    "release_date": "2025-08-01"
   },
   {
     "id": "LP-033",
@@ -986,8 +1075,9 @@
     "language": "English",
     "stock": 302,
     "price": 158905,
-    "order": 93,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv03-elite-trainer-box/sv03-elite-trainer-box-169-en.png"
+    "order": 22,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv03-elite-trainer-box/sv03-elite-trainer-box-169-en.png",
+    "release_date": "2023-08-11"
   },
   {
     "id": "LP-032",
@@ -997,8 +1087,9 @@
     "language": "English",
     "stock": 44,
     "price": 199980,
-    "order": 92,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv02-elite-trainer-box/sv02-elite-trainer-box-169-en.png"
+    "order": 21,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv02-elite-trainer-box/sv02-elite-trainer-box-169-en.png",
+    "release_date": "2023-06-09"
   },
   {
     "id": "LP-036",
@@ -1008,8 +1099,9 @@
     "language": "English",
     "stock": 563,
     "price": 315208,
-    "order": 96,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv045-elite-trainer-box/sv045-elite-trainer-box-169-en.png"
+    "order": 25,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv045-elite-trainer-box/sv045-elite-trainer-box-169-en.png",
+    "release_date": "2024-01-26"
   },
   {
     "id": "LP-035",
@@ -1019,8 +1111,9 @@
     "language": "English",
     "stock": 47,
     "price": 127964,
-    "order": 95,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv04-elite-trainer-box/sv04-elite-trainer-box-169-en.png"
+    "order": 24,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv04-elite-trainer-box/sv04-elite-trainer-box-169-en.png",
+    "release_date": "2023-11-03"
   },
   {
     "id": "LP-054",
@@ -1030,8 +1123,9 @@
     "language": "Japan",
     "stock": 12,
     "price": 188300,
-    "order": 107,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/me02-elite-trainer-box/me02-elite-trainer-box-169-en.png"
+    "order": 35,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/me02-elite-trainer-box/me02-elite-trainer-box-169-en.png",
+    "release_date": "2025-11-14"
   },
   {
     "id": "LP-042",
@@ -1041,8 +1135,9 @@
     "language": "English",
     "stock": 431,
     "price": 205972,
-    "order": 99,
-    "image": "https://assets.pokemon.com/static2/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-booster-bundle/sv8pt5-booster-bundle-169-en.png"
+    "order": 30,
+    "image": "https://assets.pokemon.com/static2/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-booster-bundle/sv8pt5-booster-bundle-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "LP-031",
@@ -1052,8 +1147,9 @@
     "language": "English",
     "stock": 50,
     "price": 137500,
-    "order": 91,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv01-elite-trainer-box/sv01-elite-trainer-box-169-en.png"
+    "order": 20,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv01-elite-trainer-box/sv01-elite-trainer-box-169-en.png",
+    "release_date": "2023-03-31"
   },
   {
     "id": "LP-020",
@@ -1063,8 +1159,9 @@
     "language": "English",
     "stock": 50,
     "price": 288750,
-    "order": 83,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh045-elite-trainer-box/swsh045-elite-trainer-box-169-en.jpg"
+    "order": 9,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh045-elite-trainer-box/swsh045-elite-trainer-box-169-en.jpg",
+    "release_date": "2021-02-19"
   },
   {
     "id": "LP-029",
@@ -1074,8 +1171,9 @@
     "language": "English",
     "stock": 82,
     "price": 211559,
-    "order": 89,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh12-elite-trainer-box/swsh12-elite-trainer-box-169-en.jpg"
+    "order": 18,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh12-elite-trainer-box/swsh12-elite-trainer-box-169-en.jpg",
+    "release_date": "2022-11-11"
   },
   {
     "id": "LP-041",
@@ -1085,8 +1183,9 @@
     "language": "English",
     "stock": 56,
     "price": 127775,
-    "order": 98,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv08-elite-trainer-box/sv08-elite-trainer-box-169-en.png"
+    "order": 29,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv08-elite-trainer-box/sv08-elite-trainer-box-169-en.png",
+    "release_date": "2024-11-08"
   },
   {
     "id": "LP-038",
@@ -1096,8 +1195,9 @@
     "language": "English",
     "stock": 44,
     "price": 148153,
-    "order": 97,
-    "image": "https://static-assets.pokemon.com/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv06-elite-trainer-box/sv06-elite-trainer-box-169-en.png"
+    "order": 26,
+    "image": "https://static-assets.pokemon.com/content-assets/cms2/img/trading-card-game/series/incrementals/2024/sv06-elite-trainer-box/sv06-elite-trainer-box-169-en.png",
+    "release_date": "2024-05-24"
   },
   {
     "id": "LP-046",
@@ -1107,8 +1207,9 @@
     "language": "English",
     "stock": 322,
     "price": 161600,
-    "order": 103,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png"
+    "order": 33,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv10pt5-elite-trainer-box/sv10pt5-elite-trainer-box-169-en.png",
+    "release_date": "2025-07-18"
   },
   {
     "id": "POS-002",
@@ -1118,8 +1219,9 @@
     "language": "English",
     "stock": 12,
     "price": 2275094,
-    "order": 114,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-premium-poster-collection/me2pt5-premium-poster-collection-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-premium-poster-collection/me2pt5-premium-poster-collection-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "POS-003",
@@ -1129,8 +1231,9 @@
     "language": "English",
     "stock": 11,
     "price": 2371640,
-    "order": 115,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-premium-poster-collection/me2pt5-premium-poster-collection-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-premium-poster-collection/me2pt5-premium-poster-collection-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "POS-001",
@@ -1140,8 +1243,9 @@
     "language": "English",
     "stock": 8,
     "price": 741235,
-    "order": 113,
-    "image": "https://static-assets.pokemon.com/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-poster-collection/sv8pt5-poster-collection-169-en.png"
+    "order": 30,
+    "image": "https://static-assets.pokemon.com/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-poster-collection/sv8pt5-poster-collection-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "SLV-002",
@@ -1151,8 +1255,9 @@
     "language": "",
     "stock": 81,
     "price": 121050,
-    "order": 117,
-    "image": "https://poke-collect.com/cdn/shop/files/megasleeved_f31311f6-82a6-4c01-954c-01bfc8fbcab5.png?v=1756930818"
+    "order": 37,
+    "image": "https://poke-collect.com/cdn/shop/files/megasleeved_f31311f6-82a6-4c01-954c-01bfc8fbcab5.png?v=1756930818",
+    "release_date": "2026-01-30"
   },
   {
     "id": "SLV-001",
@@ -1162,8 +1267,9 @@
     "language": "English",
     "stock": 25,
     "price": 201750,
-    "order": 116,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/me02-elite-trainer-box/me02-elite-trainer-box-169-en.png"
+    "order": 35,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/me02-elite-trainer-box/me02-elite-trainer-box-169-en.png",
+    "release_date": "2025-11-14"
   },
   {
     "id": "SP-027",
@@ -1173,8 +1279,9 @@
     "language": "",
     "stock": 2,
     "price": 24750000,
-    "order": 78,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-booster-bundle/me2pt5-booster-bundle-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "SP-022",
@@ -1184,8 +1291,9 @@
     "language": "English",
     "stock": 80,
     "price": 1062821,
-    "order": 73,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/first-partner-illustration-collection/series-1/first-partner-illustration-collection-169-en.png"
+    "order": 30,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/first-partner-illustration-collection/series-1/first-partner-illustration-collection-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "SP-028",
@@ -1195,8 +1303,9 @@
     "language": "",
     "stock": 3,
     "price": 206250,
-    "order": 79,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me03-booster-bundle/me03-booster-bundle-169-en.png"
+    "order": 38,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me03-booster-bundle/me03-booster-bundle-169-en.png",
+    "release_date": "2026-03-27"
   },
   {
     "id": "SP-026",
@@ -1206,8 +1315,9 @@
     "language": "",
     "stock": 67,
     "price": 914550,
-    "order": 77,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/mega-charizard-x-ex-ultra-premium-collection/mega-charizard-x-ex-ultra-premium-collection-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/mega-charizard-x-ex-ultra-premium-collection/mega-charizard-x-ex-ultra-premium-collection-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "SP-020",
@@ -1217,8 +1327,9 @@
     "language": "English",
     "stock": 4,
     "price": 481250,
-    "order": 72,
-    "image": "https://static-assets.pokemon.com/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-poster-collection/sv8pt5-poster-collection-169-en.png"
+    "order": 30,
+    "image": "https://static-assets.pokemon.com/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-poster-collection/sv8pt5-poster-collection-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "SP-024",
@@ -1228,8 +1339,9 @@
     "language": "English",
     "stock": 38,
     "price": 3654021,
-    "order": 75,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-premium-figure-collection/sv8pt5-premium-figure-collection-169-en.png"
+    "order": 30,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/sv8pt5-premium-figure-collection/sv8pt5-premium-figure-collection-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "SP-025",
@@ -1239,8 +1351,9 @@
     "language": "",
     "stock": 2,
     "price": 3344250,
-    "order": 76,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh-ultra-premium-collection-zacian-zamazenta/swsh-ultra-premium-collection-zacian-zamazenta-169.jpg"
+    "order": 12,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh-ultra-premium-collection-zacian-zamazenta/swsh-ultra-premium-collection-zacian-zamazenta-169.jpg",
+    "release_date": "2021-08-20"
   },
   {
     "id": "SP-029",
@@ -1250,7 +1363,8 @@
     "language": "",
     "stock": 12,
     "price": 2887500,
-    "order": 80
+    "order": 14,
+    "release_date": "2021-10-08"
   },
   {
     "id": "SP-023",
@@ -1260,7 +1374,8 @@
     "language": "",
     "stock": 1,
     "price": 7412350,
-    "order": 74
+    "order": 19,
+    "release_date": "2023-01-01"
   },
   {
     "id": "TS-01",
@@ -1270,8 +1385,9 @@
     "language": "English",
     "stock": 3,
     "price": 618884,
-    "order": 111,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-tech-sticker-collection/me2pt5-tech-sticker-collection-169-en.png"
+    "order": 30,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-tech-sticker-collection/me2pt5-tech-sticker-collection-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "TS-03",
@@ -1281,8 +1397,9 @@
     "language": "English",
     "stock": 1,
     "price": 618884,
-    "order": 112,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-tech-sticker-collection/me2pt5-tech-sticker-collection-169-en.png"
+    "order": 30,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me2pt5-tech-sticker-collection/me2pt5-tech-sticker-collection-169-en.png",
+    "release_date": "2025-01-17"
   },
   {
     "id": "UPC-005",
@@ -1292,8 +1409,9 @@
     "language": "English",
     "stock": 23,
     "price": 3362284,
-    "order": 70,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/mega-charizard-x-ex-ultra-premium-collection/mega-charizard-x-ex-ultra-premium-collection-169-en.png"
+    "order": 37,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2025/mega-charizard-x-ex-ultra-premium-collection/mega-charizard-x-ex-ultra-premium-collection-169-en.png",
+    "release_date": "2026-01-30"
   },
   {
     "id": "UPC-006",
@@ -1303,8 +1421,9 @@
     "language": "English",
     "stock": 1,
     "price": 5380000,
-    "order": 71,
-    "image": "https://pixagaming.com/cdn/shop/files/Pokemon-Trading-Card-Game-Team-Rocket-Moltres-ex-Ultra-Premium-Collection_1.jpg?v=1766169196"
+    "order": 36,
+    "image": "https://pixagaming.com/cdn/shop/files/Pokemon-Trading-Card-Game-Team-Rocket-Moltres-ex-Ultra-Premium-Collection_1.jpg?v=1766169196",
+    "release_date": "2025-11-28"
   },
   {
     "id": "UPC-004",
@@ -1314,8 +1433,9 @@
     "language": "English",
     "stock": 7,
     "price": 16837500,
-    "order": 69,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv035-ultra-premium-collection/sv035-ultra-premium-collection-169-en.png"
+    "order": 23,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/sv035-ultra-premium-collection/sv035-ultra-premium-collection-169-en.png",
+    "release_date": "2023-09-22"
   },
   {
     "id": "UPC-001",
@@ -1325,8 +1445,9 @@
     "language": "English",
     "stock": 4,
     "price": 9955625,
-    "order": 67,
-    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh-ultra-premium-collection-zacian-zamazenta/swsh-ultra-premium-collection-zacian-zamazenta-169.jpg"
+    "order": 8,
+    "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/swsh-ultra-premium-collection-zacian-zamazenta/swsh-ultra-premium-collection-zacian-zamazenta-169.jpg",
+    "release_date": "2020-11-20"
   },
   {
     "id": "UPC-003",
@@ -1336,7 +1457,8 @@
     "language": "English",
     "stock": 1,
     "price": 9828000,
-    "order": 68,
-    "image": "https://assets.pokemon.com/static2/_ui/img/trading-card-game/series/incrementals/sword-shield-ultra-premium-collection-charizard/sword-shield-ultra-premium-collection-charizard-169-en.jpg"
+    "order": 18,
+    "image": "https://assets.pokemon.com/static2/_ui/img/trading-card-game/series/incrementals/sword-shield-ultra-premium-collection-charizard/sword-shield-ultra-premium-collection-charizard-169-en.jpg",
+    "release_date": "2022-10-28"
   }
 ]
