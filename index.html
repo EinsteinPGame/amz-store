@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Amz Collectible — Pokemon TCG Sealed & Booster Pack</title>
-  <meta name="description" content="Jual Pokemon TCG sealed product dan loose pack. ETB, booster box, booster bundle dan lainnya. Harga terbaik.">
+  <title>Amz Collectible — Pokemon TCG Indonesia</title>
+  <meta name="description" content="Jual Pokemon TCG sealed product dan loose pack. ETB, booster box, booster bundle dan lainnya. Harga terbaik di Indonesia.">
   <link rel="stylesheet" href="style.css">
   <link rel="icon" href="logo.png">
 </head>
@@ -18,27 +18,25 @@
   <div class="filters">
     <input type="text" id="search" placeholder="Cari produk..." autocomplete="off">
     <div class="filter-row">
-      <select id="filter-category">
-        <option value="">Semua Kategori</option>
-        <option value="Sealed">Sealed</option>
-        <option value="Loose Pack">Loose Pack</option>
-      </select>
       <select id="filter-language">
         <option value="">Semua Bahasa</option>
-        <option value="EN">English</option>
-        <option value="JP">Japanese</option>
+        <option value="English">English</option>
+        <option value="Japanese">Japanese</option>
+        <option value="Campur">Campur</option>
+      </select>
+      <select id="sort">
+        <option value="name">Urut: Nama</option>
+        <option value="price-asc">Harga: Rendah → Tinggi</option>
+        <option value="price-desc">Harga: Tinggi → Rendah</option>
+        <option value="stock">Stok: Terbanyak</option>
       </select>
     </div>
   </div>
 
+  <div class="category-tabs" id="category-tabs"></div>
+
   <div class="sort-bar">
     <span class="stats-bar" id="product-count">—</span>
-    <select id="sort">
-      <option value="name">Urut: Nama</option>
-      <option value="price-asc">Harga: Rendah → Tinggi</option>
-      <option value="price-desc">Harga: Tinggi → Rendah</option>
-      <option value="stock">Stok: Terbanyak</option>
-    </select>
   </div>
 
   <main class="product-grid" id="product-grid"></main>

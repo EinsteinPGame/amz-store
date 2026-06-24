@@ -1,277 +1,1100 @@
 [
   {
-    "id": 1,
-    "name": "Crown Zenith Loose Pack",
-    "category": "Loose Pack",
-    "language": "EN",
-    "stock": 245,
-    "set": "Crown Zenith",
-    "price_sgd": 31.0,
-    "price_idr": 422840,
-    "image": "https://awesomeccg.com/cdn/shop/products/PKMN-BPACK-CRZ_1024x.png?v=1743097457"
-  },
-  {
-    "id": 2,
-    "name": "Evolving Skies Loose Pack",
-    "category": "Loose Pack",
-    "language": "EN",
-    "stock": 36,
-    "set": "Evolving Skies",
-    "price_sgd": 62.0,
-    "price_idr": 845680,
-    "image": "https://retrogamerepairshop.com/cdn/shop/products/bc88ffba-dc18-56a3-b08e-b13282c30210.jpg?v=1673452895"
-  },
-  {
-    "id": 3,
-    "name": "151 ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 8,
-    "set": "151",
-    "price_sgd": 820.0,
-    "price_idr": 11184800,
-    "image": "https://collectorstore.com/cdn/shop/files/pokemon-scarlet-violet-151-elite-trainer-box-397218.jpg?v=1739913252"
-  },
-  {
-    "id": 4,
-    "name": "25th Celebration ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 17,
-    "set": "25th Celebration",
-    "price_sgd": 580.0,
-    "price_idr": 7911200,
-    "image": "https://collectorstore.com/cdn/shop/files/pokemon-celebrations-elite-trainer-box-369157.jpg?v=1733735048"
-  },
-  {
-    "id": 5,
-    "name": "Brilliant Stars ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 3,
-    "set": "Brilliant Stars",
-    "price_sgd": 260.0,
-    "price_idr": 3546400,
-    "image": "https://cravecollect.com/cdn/shop/files/Brilliant-Stars-ETB---Pokemon_0f4a6d23-5e99-42ea-a9a8-e2e64b0ea394.jpg?v=1715721420"
-  },
-  {
-    "id": 6,
-    "name": "Brilliant Stars Pokemon Center ETB",
-    "category": "Sealed",
-    "language": "EN",
+    "id": "BOX-038",
+    "name": "Battle Partner",
+    "category": "Booster Box",
+    "series": "Journey Together",
+    "language": "JPN",
     "stock": 1,
-    "set": "Brilliant Stars",
-    "price_sgd": 470.0,
-    "price_idr": 6410800,
-    "image": "https://doubleinfinitygaming.com/cdn/shop/files/71bfXVhDD1L.jpg?v=1745600648"
+    "price": 1076000
   },
   {
-    "id": 7,
-    "name": "Burning Shadow ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 2,
-    "set": "Burning Shadow",
-    "price_sgd": 600.0,
-    "price_idr": 8184000,
-    "image": "https://cravecollect.com/cdn/shop/files/034FD322-F2A4-4C4E-8248-6C581733AB0F.jpg?v=1724455659"
-  },
-  {
-    "id": 8,
-    "name": "Charizard XY Elite Trainer Box",
-    "category": "Sealed",
-    "language": "EN",
+    "id": "BOX-047",
+    "name": "Black Abyss",
+    "category": "Booster Box",
+    "series": "",
+    "language": "",
     "stock": 1,
-    "set": "Charizard XY",
-    "price_sgd": 1300.0,
-    "price_idr": 17732000,
-    "image": "https://cravecollect.com/cdn/shop/files/817c3bWOr7L._AC_SX679.jpg?v=1690232225"
+    "price": 1718750
   },
   {
-    "id": 9,
-    "name": "Chilling Reign ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 2,
-    "set": "Chilling Reign",
-    "price_sgd": 380.0,
-    "price_idr": 5183200,
-    "image": "https://cravecollect.com/cdn/shop/files/chilling.jpg?v=1715751172"
-  },
-  {
-    "id": 10,
-    "name": "Crimson Invasion ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 1,
-    "set": "Crimson Invasion",
-    "price_sgd": 480.0,
-    "price_idr": 6547200,
-    "image": "https://collectorstore.com/cdn/shop/files/pokemon-crimson-invasion-elite-trainer-box-285196.jpg?v=1738220250"
-  },
-  {
-    "id": 11,
-    "name": "Crown Zenith ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 10,
-    "set": "Crown Zenith",
-    "price_sgd": 440.0,
-    "price_idr": 6001600,
-    "image": "https://www.kasecollect.com/cdn/shop/products/PokemonTCGSwordShield--CrownZenithEliteTrainerBox_EN-1201x1147-049f4fb.png?v=1669353403"
-  },
-  {
-    "id": 12,
-    "name": "Destiny Rivals ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 1,
-    "set": "Destiny Rivals",
-    "price_sgd": 235.0,
-    "price_idr": 3205400,
-    "image": "https://collectorstore.com/cdn/shop/files/pokemon-scarlet-violet-destined-rivals-elite-trainer-box-releasing-5-30-2025-233508.jpg?v=1748056603"
-  },
-  {
-    "id": 13,
-    "name": "Evolving Skies Booster Box",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 1,
-    "set": "Evolving Skies",
-    "price_sgd": 3300.0,
-    "price_idr": 45012000,
-    "image": "https://www.maziply.com/cdn/shop/products/pokemon-sword-and-shield-evolving-skies-booster-box_grande.jpg?v=1759261233"
-  },
-  {
-    "id": 14,
-    "name": "Evolving Skies ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 1,
-    "set": "Evolving Skies",
-    "price_sgd": 730.0,
-    "price_idr": 9957200,
-    "image": "https://www.maziply.com/cdn/shop/products/pokemon-sword-and-shield-evolving-skies-elite-trainer-box-glaceon-vaporeon-sylveon-and-espeon-main_grande.jpg?v=1759261237"
-  },
-  {
-    "id": 15,
-    "name": "Evolving Skies ETB Set",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 2,
-    "set": "Evolving Skies",
-    "price_sgd": 1600.0,
-    "price_idr": 21824000,
-    "image": "https://www.hobby-addicts.com/cdn/shop/products/Pokemon_TCG_Sword_Shield_Evolving_Skies_Elite_Trainer_Box_Eevee_Evolutions_3_863x.png?v=1662832831"
-  },
-  {
-    "id": 16,
-    "name": "First Partner Illustration Collection",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 20,
-    "set": "First Partner Illustration",
-    "price_sgd": 76.0,
-    "price_idr": 1036640,
-    "image": "https://collectorstore.com/cdn/shop/files/Screenshot-2026-03-16-142758.jpg?v=1773689525"
-  },
-  {
-    "id": 17,
-    "name": "Hidden Fates ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 3,
-    "set": "Hidden Fates",
-    "price_sgd": 740.0,
-    "price_idr": 10093600,
-    "image": "https://www.kasecollect.com/cdn/shop/products/Hidden-Fates-Elite-Trainer-Box-Contents.jpg?v=1564386963"
-  },
-  {
-    "id": 18,
-    "name": "Lost Origin ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 1,
-    "set": "Lost Origin",
-    "price_sgd": 332.0,
-    "price_idr": 4528480,
-    "image": "https://collectorstore.com/cdn/shop/files/pokemon-sword-shield-lost-origin-elite-trainer-box-483486.jpg?v=1727285646"
-  },
-  {
-    "id": 19,
-    "name": "Paldea Evolved Booster Box",
-    "category": "Sealed",
-    "language": "EN",
+    "id": "BOX-046",
+    "name": "Chaos Rising Booster  Box",
+    "category": "Booster Box",
+    "series": "",
+    "language": "",
     "stock": 6,
-    "set": "Paldea Evolved",
-    "price_sgd": 630.0,
-    "price_idr": 8593200,
-    "image": "https://www.maziply.com/cdn/shop/files/pokemon-tcg-scarlet-violet-paldea-evolved-booster-display-box-36-packs_grande.jpg?v=1759276677"
+    "price": 4950000
   },
   {
-    "id": 20,
-    "name": "Paldea Evolved ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 14,
-    "set": "Paldea Evolved",
-    "price_sgd": 323.14,
-    "price_idr": 4407630,
-    "image": "https://cravecollect.com/cdn/shop/files/peetb.png?v=1737483617"
+    "id": "BOX-045",
+    "name": "Gem Box 1 Chinese",
+    "category": "Booster Box",
+    "series": "",
+    "language": "CN",
+    "stock": 10,
+    "price": 1100000
   },
   {
-    "id": 21,
-    "name": "Paldean Fates ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 13,
-    "set": "Paldean Fates",
-    "price_sgd": 570.62,
-    "price_idr": 7783257,
-    "image": "https://collectorstore.com/cdn/shop/files/pokemon-scarlet-violet-paldean-fates-elite-trainer-box-645592.jpg?v=1727285493"
-  },
-  {
-    "id": 22,
-    "name": "Paldean Fates Pokemon Center ETB",
-    "category": "Sealed",
-    "language": "EN",
+    "id": "BOX-036",
+    "name": "Hitam Putih",
+    "category": "Booster Box",
+    "series": "Hitam Putih",
+    "language": "Indonesia",
     "stock": 3,
-    "set": "Paldean Fates",
-    "price_sgd": 880.0,
-    "price_idr": 12003200,
-    "image": "https://cravecollect.com/cdn/shop/files/Paldean-Fates-Pokemon-Center-Elite-Trainer-Box-_ETB_---Pokemon.jpg?v=1715716686"
+    "price": 1750000
   },
   {
-    "id": 23,
-    "name": "Prismatic ETB",
-    "category": "Sealed",
-    "language": "EN",
-    "stock": 26,
-    "set": "Prismatic",
-    "price_sgd": 230.0,
-    "price_idr": 3137200,
-    "image": "https://collectorstore.com/cdn/shop/files/pokemon-scarlet-violet-prismatic-evolutions-elite-trainer-box-944806.png?v=1737025268"
+    "id": "BOX-037",
+    "name": "Mega Dream",
+    "category": "Booster Box",
+    "series": "Mega Dream",
+    "language": "JPN",
+    "stock": 76,
+    "price": 1382213
   },
   {
-    "id": 24,
-    "name": "Twilight Masquerade Booster Box",
-    "category": "Sealed",
-    "language": "EN",
+    "id": "BOX-027",
+    "name": "Obsidian Flames Booster  Box",
+    "category": "Booster Box",
+    "series": "Obsidian Flames",
+    "language": "English",
+    "stock": 2,
+    "price": 5514500
+  },
+  {
+    "id": "OP-BOX02",
+    "name": "One Piece 05 Booster Box",
+    "category": "Booster Box",
+    "series": "One Piece",
+    "language": "",
     "stock": 1,
-    "set": "Twilight Masquerade",
-    "price_sgd": 428.0,
-    "price_idr": 5837920,
-    "image": "https://www.maziply.com/cdn/shop/files/pokemon-tcg-twilight-masquerade-booster-box-36-packs_grande.jpg?v=1762453839"
+    "price": 4606250
   },
   {
-    "id": 25,
-    "name": "Unbroken Bonds Booster Box",
-    "category": "Sealed",
-    "language": "EN",
+    "id": "OP-BOX01",
+    "name": "One Piece 13 Booster Box",
+    "category": "Booster Box",
+    "series": "One Piece",
+    "language": "",
+    "stock": 14,
+    "price": 10890000
+  },
+  {
+    "id": "BOX-040",
+    "name": "One Piece PRB02",
+    "category": "Booster Box",
+    "series": "",
+    "language": "JPN",
+    "stock": 7,
+    "price": 914550
+  },
+  {
+    "id": "BOX-026",
+    "name": "Paldea Evolved Booster  Box",
+    "category": "Booster Box",
+    "series": "Paldea Evolved",
+    "language": "English",
     "stock": 1,
-    "set": "Unbroken Bonds",
-    "price_sgd": 3300.0,
-    "price_idr": 45012000,
-    "image": "https://cravecollect.com/cdn/shop/files/185717.webp?v=1690244618"
+    "price": 8662500
+  },
+  {
+    "id": "BOX-041",
+    "name": "Phantasm Flame Booster  Box",
+    "category": "Booster Box",
+    "series": "Phantasm Flame",
+    "language": "",
+    "stock": 9,
+    "price": 6785250
+  },
+  {
+    "id": "BOX-044",
+    "name": "Pokemon VSTAR Universe",
+    "category": "Booster Box",
+    "series": "",
+    "language": "JPN",
+    "stock": 52,
+    "price": 3437500
+  },
+  {
+    "id": "BOX-042",
+    "name": "Pokemon vmax climax booster box",
+    "category": "Booster Box",
+    "series": "",
+    "language": "JPN",
+    "stock": 2,
+    "price": 4537500
+  },
+  {
+    "id": "BOX-043",
+    "name": "Sword And Shield High Class pack shinny star v booster box",
+    "category": "Booster Box",
+    "series": "",
+    "language": "JPN",
+    "stock": 4,
+    "price": 2736250
+  },
+  {
+    "id": "BOX-039",
+    "name": "Terastal Festival",
+    "category": "Booster Box",
+    "series": "",
+    "language": "JPN",
+    "stock": 1,
+    "price": 2192350
+  },
+  {
+    "id": "BUNDLE-008",
+    "name": "151 Booster Bundle",
+    "category": "Booster Bundle",
+    "series": 151,
+    "language": "English",
+    "stock": 18,
+    "price": 3298762
+  },
+  {
+    "id": "BUNDLE-018",
+    "name": "Destined Rivals Booster Bundle",
+    "category": "Booster Bundle",
+    "series": "Destined Rivals",
+    "language": "English",
+    "stock": 10,
+    "price": 1001250
+  },
+  {
+    "id": "BUNDLE-022",
+    "name": "Mega Evolution—Ascended Heroes Booster Bundle",
+    "category": "Booster Bundle",
+    "series": "Ascended Heroes",
+    "language": "English",
+    "stock": 268,
+    "price": 1574400
+  },
+  {
+    "id": "BUNDLE-021",
+    "name": "Mega Evolution—Perfect Order Booster Bundle",
+    "category": "Booster Bundle",
+    "series": "Perfect Order",
+    "language": "English",
+    "stock": 6,
+    "price": 645600
+  },
+  {
+    "id": "BUNDLE-016",
+    "name": "Prismatic Evolutions Booster Bundle",
+    "category": "Booster Bundle",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 50,
+    "price": 1452600
+  },
+  {
+    "id": "BUNDLE-013",
+    "name": "Shrouded Fable Booster Bundle",
+    "category": "Booster Bundle",
+    "series": "Shrouded Fable",
+    "language": "English",
+    "stock": 2,
+    "price": 734250
+  },
+  {
+    "id": "BUNDLE-015",
+    "name": "Surging Sparks Booster Bundle",
+    "category": "Booster Bundle",
+    "series": "Surging Sparks",
+    "language": "English",
+    "stock": 36,
+    "price": 865089
+  },
+  {
+    "id": "BUNDLE-023",
+    "name": "Surging Sparks Costco Bundle",
+    "category": "Booster Bundle",
+    "series": "Surging Sparks",
+    "language": "English",
+    "stock": 6,
+    "price": 2767079
+  },
+  {
+    "id": "ETB-034",
+    "name": "151 ETB",
+    "category": "ETB",
+    "series": 151,
+    "language": "English",
+    "stock": 23,
+    "price": 11454671
+  },
+  {
+    "id": "ETB-057",
+    "name": "20th Enniversary Generation ETB",
+    "category": "ETB",
+    "series": "",
+    "language": "",
+    "stock": 1,
+    "price": 75625000
+  },
+  {
+    "id": "ETB-052",
+    "name": "25th Celebration ETB",
+    "category": "ETB",
+    "series": "25Th",
+    "language": "English",
+    "stock": 3,
+    "price": 7700000
+  },
+  {
+    "id": "ETB-021",
+    "name": "Battle Styles ETB",
+    "category": "ETB",
+    "series": "Battle Styles",
+    "language": "English",
+    "stock": 1,
+    "price": 3712500
+  },
+  {
+    "id": "ETB-045",
+    "name": "Black Bolt ETB",
+    "category": "ETB",
+    "series": "Black Bolt",
+    "language": "English",
+    "stock": 18,
+    "price": 2485393
+  },
+  {
+    "id": "ETB-058",
+    "name": "Black ETB pokemon center",
+    "category": "ETB",
+    "series": "",
+    "language": "",
+    "stock": 1,
+    "price": 5775000
+  },
+  {
+    "id": "ETB-051",
+    "name": "Brilliant Star ETB Pokemon Center",
+    "category": "ETB",
+    "series": "Brilliant Stars",
+    "language": "English",
+    "stock": 3,
+    "price": 5385417
+  },
+  {
+    "id": "ETB-025",
+    "name": "Brilliant Stars ETB",
+    "category": "ETB",
+    "series": "Brilliant Stars",
+    "language": "English",
+    "stock": 3,
+    "price": 3368917
+  },
+  {
+    "id": "ETB-003",
+    "name": "Burning Shadows ETB",
+    "category": "ETB",
+    "series": "Burning Shadows",
+    "language": "English",
+    "stock": 1,
+    "price": 7012500
+  },
+  {
+    "id": "ETB-018",
+    "name": "Champion's Path ETB",
+    "category": "ETB",
+    "series": "Champion's Path",
+    "language": "English",
+    "stock": 2,
+    "price": 3300000
+  },
+  {
+    "id": "ETB-053",
+    "name": "Chaos Rising ETB",
+    "category": "ETB",
+    "series": "",
+    "language": "English",
+    "stock": 13,
+    "price": 1993750
+  },
+  {
+    "id": "ETB-022",
+    "name": "Chilling Reign ETB",
+    "category": "ETB",
+    "series": "Chilling Reign",
+    "language": "English",
+    "stock": 1,
+    "price": 3162500
+  },
+  {
+    "id": "ETB-013",
+    "name": "Cosmic Eclipse ETB",
+    "category": "ETB",
+    "series": "Cosmic Eclipse",
+    "language": "English",
+    "stock": 1,
+    "price": 37812500
+  },
+  {
+    "id": "ETB-030",
+    "name": "Crown Zenith ETB",
+    "category": "ETB",
+    "series": "Crown Zenith",
+    "language": "English",
+    "stock": 14,
+    "price": 5732800
+  },
+  {
+    "id": "ETBP-001",
+    "name": "Crown Zenith ETB Plus",
+    "category": "ETB",
+    "series": "",
+    "language": "",
+    "stock": 4,
+    "price": 12289062
+  },
+  {
+    "id": "ETB-044",
+    "name": "Destined Rivals ETB",
+    "category": "ETB",
+    "series": "Destined Rivals",
+    "language": "English",
+    "stock": 9,
+    "price": 3643750
+  },
+  {
+    "id": "ETB-023",
+    "name": "Evolving Skies ETB",
+    "category": "ETB",
+    "series": "Evolving Skies",
+    "language": "English",
+    "stock": 11,
+    "price": 10209082
+  },
+  {
+    "id": "ETB-024",
+    "name": "Fusion Strike ETB",
+    "category": "ETB",
+    "series": "Fusion Strike",
+    "language": "English",
+    "stock": 9,
+    "price": 5721625
+  },
+  {
+    "id": "ETB-012",
+    "name": "Hidden Fates ETB",
+    "category": "ETB",
+    "series": "Hidden Fates",
+    "language": "English",
+    "stock": 1,
+    "price": 10112500
+  },
+  {
+    "id": "ETB-043",
+    "name": "Journey Together ETB",
+    "category": "ETB",
+    "series": "Journey Together",
+    "language": "English",
+    "stock": 7,
+    "price": 1702000
+  },
+  {
+    "id": "ETB-028",
+    "name": "Lost Origin ETB",
+    "category": "ETB",
+    "series": "Lost Origin",
+    "language": "English",
+    "stock": 28,
+    "price": 4470333
+  },
+  {
+    "id": "ETB-048",
+    "name": "Mega Evolution—Ascended Heroes ETB",
+    "category": "ETB",
+    "series": "Ascended Heroes",
+    "language": "English",
+    "stock": 118,
+    "price": 2503225
+  },
+  {
+    "id": "ETB-047",
+    "name": "Mega Evolution—Perfect Order ETB",
+    "category": "ETB",
+    "series": "Perfect Order",
+    "language": "English",
+    "stock": 6,
+    "price": 2538542
+  },
+  {
+    "id": "ETB-033",
+    "name": "Obsidian Flames ETB",
+    "category": "ETB",
+    "series": "Obsidian Flames",
+    "language": "English",
+    "stock": 21,
+    "price": 5227583
+  },
+  {
+    "id": "ETB-032",
+    "name": "Paldea Evolved ETB",
+    "category": "ETB",
+    "series": "Paldea Evolved",
+    "language": "English",
+    "stock": 2,
+    "price": 4821667
+  },
+  {
+    "id": "ETB-036",
+    "name": "Paldean Fates ETB",
+    "category": "ETB",
+    "series": "Paldean Fates",
+    "language": "English",
+    "stock": 5,
+    "price": 7159571
+  },
+  {
+    "id": "ETB-050",
+    "name": "Paldean Fates ETB Pokemon Center",
+    "category": "ETB",
+    "series": "Paldean Fates",
+    "language": "English",
+    "stock": 5,
+    "price": 11481250
+  },
+  {
+    "id": "ETB-035",
+    "name": "Paradox Rift ETB",
+    "category": "ETB",
+    "series": "Paradox Rift",
+    "language": "English",
+    "stock": 2,
+    "price": 2184625
+  },
+  {
+    "id": "ETB-049",
+    "name": "Phantasm Flame ETB",
+    "category": "ETB",
+    "series": "Phantasm Flame",
+    "language": "English",
+    "stock": 29,
+    "price": 2147903
+  },
+  {
+    "id": "ETB-055",
+    "name": "Pokemon GO Pokemon Center",
+    "category": "ETB",
+    "series": "",
+    "language": "English",
+    "stock": 1,
+    "price": 5885000
+  },
+  {
+    "id": "ETB-060",
+    "name": "Pokemon XY Break through ETB",
+    "category": "ETB",
+    "series": "",
+    "language": "",
+    "stock": 1,
+    "price": 68062500
+  },
+  {
+    "id": "ETB-027",
+    "name": "Pokémon GO ETB",
+    "category": "ETB",
+    "series": "Pokémon GO",
+    "language": "English",
+    "stock": 1,
+    "price": 2750000
+  },
+  {
+    "id": "ETB-042",
+    "name": "Prismatic Evolutions ETB",
+    "category": "ETB",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 37,
+    "price": 3297074
+  },
+  {
+    "id": "ETB-031",
+    "name": "Scarlet & Violet ETB",
+    "category": "ETB",
+    "series": "Scarlet & Violet",
+    "language": "English",
+    "stock": 4,
+    "price": 2887500
+  },
+  {
+    "id": "ETB-020",
+    "name": "Shining Fates ETB",
+    "category": "ETB",
+    "series": "Shining Fates",
+    "language": "English",
+    "stock": 1,
+    "price": 2750000
+  },
+  {
+    "id": "ETB-039",
+    "name": "Shrouded Fable ETB",
+    "category": "ETB",
+    "series": "Shrouded Fable",
+    "language": "English",
+    "stock": 11,
+    "price": 1482048
+  },
+  {
+    "id": "ETB-029",
+    "name": "Silver Tempest ETB",
+    "category": "ETB",
+    "series": "Silver Tempest",
+    "language": "English",
+    "stock": 11,
+    "price": 3025000
+  },
+  {
+    "id": "ETB-040",
+    "name": "Stellar Crown ETB",
+    "category": "ETB",
+    "series": "Stellar Crown",
+    "language": "English",
+    "stock": 6,
+    "price": 1368250
+  },
+  {
+    "id": "ETB-001",
+    "name": "Sun & Moon ETB",
+    "category": "ETB",
+    "series": "Sun & Moon",
+    "language": "English",
+    "stock": 3,
+    "price": 4583333
+  },
+  {
+    "id": "ETB-041",
+    "name": "Surging Sparks ETB",
+    "category": "ETB",
+    "series": "Surging Sparks",
+    "language": "English",
+    "stock": 16,
+    "price": 1827451
+  },
+  {
+    "id": "ETB-019",
+    "name": "Vivid Voltage ETB",
+    "category": "ETB",
+    "series": "Vivid Voltage",
+    "language": "English",
+    "stock": 1,
+    "price": 4125000
+  },
+  {
+    "id": "ETB-059",
+    "name": "White ETB pokemon center",
+    "category": "ETB",
+    "series": "",
+    "language": "",
+    "stock": 1,
+    "price": 5225000
+  },
+  {
+    "id": "ETB-046",
+    "name": "White Flare ETB",
+    "category": "ETB",
+    "series": "White Flare",
+    "language": "English",
+    "stock": 15,
+    "price": 2293586
+  },
+  {
+    "id": "ETB-056",
+    "name": "XY Evolution Bulbasaur ETB",
+    "category": "ETB",
+    "series": "",
+    "language": "",
+    "stock": 1,
+    "price": 15262500
+  },
+  {
+    "id": "ETB-054",
+    "name": "XY Evolution Charizard ETB",
+    "category": "ETB",
+    "series": "",
+    "language": "English",
+    "stock": 1,
+    "price": 17875000
+  },
+  {
+    "id": "ETBP-002",
+    "name": "Zacian ETB Plus",
+    "category": "ETB",
+    "series": "",
+    "language": "",
+    "stock": 1,
+    "price": 4812500
+  },
+  {
+    "id": "ETBP-003",
+    "name": "Zamazenta ETB Plus",
+    "category": "ETB",
+    "series": "",
+    "language": "",
+    "stock": 1,
+    "price": 4812500
+  },
+  {
+    "id": "LP-034",
+    "name": "151 LP",
+    "category": "Loose Pack",
+    "series": 151,
+    "language": "English",
+    "stock": 194,
+    "price": 524550
+  },
+  {
+    "id": "LP-057",
+    "name": "25th Celebration Loose Pack",
+    "category": "Loose Pack",
+    "series": "",
+    "language": "",
+    "stock": 190,
+    "price": 618750
+  },
+  {
+    "id": "LP-045",
+    "name": "Black Bolt LP",
+    "category": "Loose Pack",
+    "series": "Black Bolt",
+    "language": "English",
+    "stock": 508,
+    "price": 178143
+  },
+  {
+    "id": "LP-025",
+    "name": "Brilliant Stars LP",
+    "category": "Loose Pack",
+    "series": "Brilliant Stars",
+    "language": "English",
+    "stock": 155,
+    "price": 239912
+  },
+  {
+    "id": "LP-003",
+    "name": "Burning Shadows LP",
+    "category": "Loose Pack",
+    "series": "Burning Shadows",
+    "language": "English",
+    "stock": 15,
+    "price": 1031250
+  },
+  {
+    "id": "LP-022",
+    "name": "Chilling Reign LP",
+    "category": "Loose Pack",
+    "series": "Chilling Reign",
+    "language": "English",
+    "stock": 178,
+    "price": 188300
+  },
+  {
+    "id": "LP-030",
+    "name": "Crown Zenith LP",
+    "category": "Loose Pack",
+    "series": "Crown Zenith",
+    "language": "English",
+    "stock": 59,
+    "price": 426250
+  },
+  {
+    "id": "LP-044",
+    "name": "Destined Rivals LP",
+    "category": "Loose Pack",
+    "series": "Destined Rivals",
+    "language": "English",
+    "stock": 48,
+    "price": 146980
+  },
+  {
+    "id": "LP-023",
+    "name": "Evolving Skies LP",
+    "category": "Loose Pack",
+    "series": "Evolving Skies",
+    "language": "English",
+    "stock": 7,
+    "price": 807000
+  },
+  {
+    "id": "LP-024",
+    "name": "Fusion Strike LP",
+    "category": "Loose Pack",
+    "series": "Fusion Strike",
+    "language": "English",
+    "stock": 192,
+    "price": 340339
+  },
+  {
+    "id": "LP-043",
+    "name": "Journey Together LP",
+    "category": "Loose Pack",
+    "series": "Journey Together",
+    "language": "English",
+    "stock": 24,
+    "price": 105037
+  },
+  {
+    "id": "LP-028",
+    "name": "Lost Origin LP",
+    "category": "Loose Pack",
+    "series": "Lost Origin",
+    "language": "English",
+    "stock": 67,
+    "price": 385000
+  },
+  {
+    "id": "LP-008",
+    "name": "Lost Thunder LP",
+    "category": "Loose Pack",
+    "series": "Lost Thunder",
+    "language": "English",
+    "stock": 10,
+    "price": 1306250
+  },
+  {
+    "id": "LP-049",
+    "name": "Mega Dream",
+    "category": "Loose Pack",
+    "series": "Mega Dream",
+    "language": "Japan",
+    "stock": 11,
+    "price": 102800
+  },
+  {
+    "id": "LP-055",
+    "name": "Mega Evolution loose pack",
+    "category": "Loose Pack",
+    "series": "",
+    "language": "",
+    "stock": 79,
+    "price": 121050
+  },
+  {
+    "id": "LP-048",
+    "name": "Mega Evolution—Ascended Heroes LP",
+    "category": "Loose Pack",
+    "series": "Ascended Heroes",
+    "language": "English",
+    "stock": 2329,
+    "price": 233839
+  },
+  {
+    "id": "LP-050",
+    "name": "Mega Symphonia loose pack",
+    "category": "Loose Pack",
+    "series": "",
+    "language": "Japan",
+    "stock": 100,
+    "price": 28918
+  },
+  {
+    "id": "LP-056",
+    "name": "Mega brave",
+    "category": "Loose Pack",
+    "series": "",
+    "language": "",
+    "stock": 100,
+    "price": 32952
+  },
+  {
+    "id": "LP-033",
+    "name": "Obsidian Flames LP",
+    "category": "Loose Pack",
+    "series": "Obsidian Flames",
+    "language": "English",
+    "stock": 302,
+    "price": 158905
+  },
+  {
+    "id": "LP-032",
+    "name": "Paldea Evolved LP",
+    "category": "Loose Pack",
+    "series": "Paldea Evolved",
+    "language": "English",
+    "stock": 44,
+    "price": 199980
+  },
+  {
+    "id": "LP-036",
+    "name": "Paldean Fates LP",
+    "category": "Loose Pack",
+    "series": "Paldean Fates",
+    "language": "English",
+    "stock": 563,
+    "price": 315208
+  },
+  {
+    "id": "LP-035",
+    "name": "Paradox Rift LP",
+    "category": "Loose Pack",
+    "series": "Paradox Rift",
+    "language": "English",
+    "stock": 47,
+    "price": 127964
+  },
+  {
+    "id": "LP-054",
+    "name": "Phantasm Flame Loose Pack",
+    "category": "Loose Pack",
+    "series": "",
+    "language": "Japan",
+    "stock": 12,
+    "price": 188300
+  },
+  {
+    "id": "LP-042",
+    "name": "Prismatic Evolutions LP",
+    "category": "Loose Pack",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 431,
+    "price": 205972
+  },
+  {
+    "id": "LP-031",
+    "name": "Scarlet & Violet LP",
+    "category": "Loose Pack",
+    "series": "Scarlet & Violet",
+    "language": "English",
+    "stock": 50,
+    "price": 137500
+  },
+  {
+    "id": "LP-020",
+    "name": "Shining Fates LP",
+    "category": "Loose Pack",
+    "series": "Shining Fates",
+    "language": "English",
+    "stock": 50,
+    "price": 288750
+  },
+  {
+    "id": "LP-029",
+    "name": "Silver Tempest LP",
+    "category": "Loose Pack",
+    "series": "Silver Tempest",
+    "language": "English",
+    "stock": 82,
+    "price": 211559
+  },
+  {
+    "id": "LP-041",
+    "name": "Surging Sparks LP",
+    "category": "Loose Pack",
+    "series": "Surging Sparks",
+    "language": "English",
+    "stock": 56,
+    "price": 127775
+  },
+  {
+    "id": "LP-038",
+    "name": "Twilight Masquerade LP",
+    "category": "Loose Pack",
+    "series": "Twilight Masquerade",
+    "language": "English",
+    "stock": 44,
+    "price": 148153
+  },
+  {
+    "id": "LP-046",
+    "name": "White Flare LP",
+    "category": "Loose Pack",
+    "series": "White Flare",
+    "language": "English",
+    "stock": 322,
+    "price": 161600
+  },
+  {
+    "id": "POS-002",
+    "name": "Poster Mega Ascended Gardevoir",
+    "category": "Poster Bundle",
+    "series": "Ascended Heroes",
+    "language": "English",
+    "stock": 12,
+    "price": 2275094
+  },
+  {
+    "id": "POS-003",
+    "name": "Poster Mega Ascended Lucario",
+    "category": "Poster Bundle",
+    "series": "Ascended Heroes",
+    "language": "English",
+    "stock": 11,
+    "price": 2371640
+  },
+  {
+    "id": "POS-001",
+    "name": "Poster Prismatic Evolutions",
+    "category": "Poster Bundle",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 8,
+    "price": 741235
+  },
+  {
+    "id": "SLV-002",
+    "name": "Mega Evolution sleeved packs",
+    "category": "Sleeve",
+    "series": "",
+    "language": "",
+    "stock": 81,
+    "price": 121050
+  },
+  {
+    "id": "SLV-001",
+    "name": "Phantasm Flame  sleeved packs",
+    "category": "Sleeve",
+    "series": "Phantasm Flame",
+    "language": "English",
+    "stock": 25,
+    "price": 201750
+  },
+  {
+    "id": "SP-027",
+    "name": " Inner Booster Bundle Ascended Heroes",
+    "category": "Special Box",
+    "series": "",
+    "language": "",
+    "stock": 2,
+    "price": 24750000
+  },
+  {
+    "id": "SP-022",
+    "name": "First Partner Pack",
+    "category": "Special Box",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 80,
+    "price": 1062821
+  },
+  {
+    "id": "SP-028",
+    "name": "Perfect Order Foil Box",
+    "category": "Special Box",
+    "series": "",
+    "language": "",
+    "stock": 3,
+    "price": 206250
+  },
+  {
+    "id": "SP-026",
+    "name": "Premium Trainer Box Mega",
+    "category": "Special Box",
+    "series": "Mega Evolution",
+    "language": "",
+    "stock": 67,
+    "price": 914550
+  },
+  {
+    "id": "SP-020",
+    "name": "Prismatic Evolutions Poster Collection",
+    "category": "Special Box",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 4,
+    "price": 481250
+  },
+  {
+    "id": "SP-024",
+    "name": "Prismatic Figure Collection",
+    "category": "Special Box",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 38,
+    "price": 3654021
+  },
+  {
+    "id": "SP-025",
+    "name": "Special Card Set Zacian Vunion",
+    "category": "Special Box",
+    "series": "",
+    "language": "",
+    "stock": 2,
+    "price": 3344250
+  },
+  {
+    "id": "SP-029",
+    "name": "Tin Can 25th Year Promo",
+    "category": "Special Box",
+    "series": "",
+    "language": "",
+    "stock": 12,
+    "price": 2887500
+  },
+  {
+    "id": "SP-023",
+    "name": "Tohoku Special Set",
+    "category": "Special Box",
+    "series": "",
+    "language": "",
+    "stock": 1,
+    "price": 7412350
+  },
+  {
+    "id": "TS-01",
+    "name": "Prismatic tech sticker Leafon",
+    "category": "Tech Sticker",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 3,
+    "price": 618884
+  },
+  {
+    "id": "TS-03",
+    "name": "Prismatic tech sticker Sylveon",
+    "category": "Tech Sticker",
+    "series": "Prismatic Evolutions",
+    "language": "English",
+    "stock": 1,
+    "price": 618884
+  },
+  {
+    "id": "UPC-005",
+    "name": "Mega Charizard X ex Ultra-Premium Collection",
+    "category": "UPC",
+    "series": "Mega Evolution",
+    "language": "English",
+    "stock": 23,
+    "price": 3362284
+  },
+  {
+    "id": "UPC-006",
+    "name": "Moltres Ultra Premium UPC",
+    "category": "UPC",
+    "series": "",
+    "language": "English",
+    "stock": 1,
+    "price": 5380000
+  },
+  {
+    "id": "UPC-004",
+    "name": "Scarlet & Violet—151 Ultra-Premium Collection",
+    "category": "UPC",
+    "series": 151,
+    "language": "English",
+    "stock": 7,
+    "price": 16837500
+  },
+  {
+    "id": "UPC-001",
+    "name": "Sword & Shield Ultra-Premium Collection",
+    "category": "UPC",
+    "series": "Sword & Shield",
+    "language": "English",
+    "stock": 4,
+    "price": 9955625
+  },
+  {
+    "id": "UPC-003",
+    "name": "Sword & Shield Ultra-Premium Collection—Charizard",
+    "category": "UPC",
+    "series": "Charizard UPC",
+    "language": "English",
+    "stock": 1,
+    "price": 9828000
   }
 ]

@@ -115,6 +115,47 @@ body {
   flex: 1;
 }
 
+/* Category Tabs */
+.category-tabs {
+  display: flex;
+  gap: 8px;
+  padding: 12px 16px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  background: var(--bg-primary);
+  border-bottom: 1px solid var(--border);
+}
+
+.category-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.tab {
+  flex-shrink: 0;
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+
+.tab:hover {
+  background: var(--bg-card-hover);
+  color: var(--text-primary);
+}
+
+.tab.active {
+  background: var(--accent);
+  color: #1a1a2e;
+  border-color: var(--accent);
+}
+
 /* Stats bar */
 .stats-bar {
   padding: 8px 16px;
@@ -188,8 +229,17 @@ body {
 
 .badge-en { background: var(--badge-en); color: #fff; }
 .badge-jp { background: var(--badge-jp); color: #fff; }
-.badge-sealed { background: var(--badge-sealed); color: #fff; }
-.badge-loose { background: var(--badge-loose); color: #fff; }
+.badge-lang { background: #6b7280; color: #fff; }
+.badge-etb { background: #8b5cf6; color: #fff; }
+.badge-box { background: #3b82f6; color: #fff; }
+.badge-bundle { background: #06b6d4; color: #fff; }
+.badge-loose { background: #10b981; color: #fff; }
+.badge-special { background: #f59e0b; color: #fff; }
+.badge-upc { background: #ec4899; color: #fff; }
+.badge-poster { background: #8b5cf6; color: #fff; }
+.badge-sleeve { background: #6366f1; color: #fff; }
+.badge-sticker { background: #14b8a6; color: #fff; }
+.badge-default { background: #6b7280; color: #fff; }
 
 .product-card .name {
   font-size: 0.9rem;
