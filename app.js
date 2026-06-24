@@ -81,6 +81,9 @@
     });
 
     switch (sort) {
+      case 'newest':
+        filteredProducts.sort((a, b) => (b.order || 0) - (a.order || 0));
+        break;
       case 'price-asc':
         filteredProducts.sort((a, b) => a.price - b.price);
         break;
