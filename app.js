@@ -140,8 +140,13 @@
       );
       const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${waMessage}`;
 
+      const imgHtml = p.image
+        ? `<div class="product-img"><img src="${p.image}" alt="${escapeHtml(p.name)}" loading="lazy"></div>`
+        : `<div class="product-img product-img-placeholder"><span>No Image</span></div>`;
+
       return `
         <div class="product-card">
+          ${imgHtml}
           <div class="badges">
             <span class="badge ${getCategoryBadgeClass(p.category)}">${escapeHtml(p.category)}</span>
             ${p.language ? `<span class="badge ${getLangBadgeClass(p.language)}">${escapeHtml(p.language)}</span>` : ''}
