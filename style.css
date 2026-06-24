@@ -264,11 +264,17 @@ body {
 .stock-ok { color: var(--stock-ok); }
 .stock-low { color: var(--stock-low); }
 
+.btn-row {
+  display: flex;
+  gap: 6px;
+}
+
 .product-card .order-btn {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 6px;
+  flex: 1;
   background: #25d366;
   color: #fff;
   border: none;
@@ -288,6 +294,32 @@ body {
 .order-btn svg {
   width: 16px;
   height: 16px;
+  fill: currentColor;
+}
+
+.product-card .share-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-card-hover);
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+
+.product-card .share-btn:hover {
+  background: #25d366;
+  color: #fff;
+  border-color: #25d366;
+}
+
+.share-btn svg {
+  width: 18px;
+  height: 18px;
   fill: currentColor;
 }
 
