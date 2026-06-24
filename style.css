@@ -40,8 +40,6 @@ body {
   border-bottom: 1px solid var(--border);
   padding: 20px 16px 16px;
   text-align: center;
-  position: sticky;
-  top: 0;
   z-index: 100;
 }
 
@@ -77,8 +75,6 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  position: sticky;
-  top: 68px;
   z-index: 99;
 }
 
