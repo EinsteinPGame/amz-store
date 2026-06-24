@@ -1,7 +1,7 @@
 (() => {
   'use strict';
 
-  const WHATSAPP_NUMBER = '6500000000';
+  const WHATSAPP_NUMBER = '6281808838110';
 
   let products = [];
   let filteredProducts = [];
