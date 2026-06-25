@@ -5,6 +5,7 @@
 
   let products = [];
   let filteredProducts = [];
+  let activeBrand = 'Pokemon';
   let activeCategory = '';
 
   const grid = document.getElementById('product-grid');
@@ -28,6 +29,7 @@
     try {
       const res = await fetch('products.json');
       products = await res.json();
+      bindBrandTabs();
       buildCategoryTabs();
       applyFilters();
       bindEvents();
@@ -37,8 +39,23 @@
     }
   }
 
+  function bindBrandTabs() {
+    const brandContainer = document.getElementById('brand-tabs');
+    brandContainer.querySelectorAll('.brand-tab').forEach(btn => {
+      btn.addEventListener('click', () => {
+        brandContainer.querySelectorAll('.brand-tab').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeBrand = btn.dataset.brand;
+        activeCategory = '';
+        buildCategoryTabs();
+        applyFilters();
+      });
+    });
+  }
+
   function buildCategoryTabs() {
-    const cats = [...new Set(products.map(p => p.category))];
+    const brandProducts = products.filter(p => p.brand === activeBrand);
+    const cats = [...new Set(brandProducts.map(p => p.category))];
     cats.sort((a, b) => {
       const ai = CATEGORY_ORDER.indexOf(a);
       const bi = CATEGORY_ORDER.indexOf(b);
@@ -46,9 +63,9 @@
     });
 
     const catCounts = {};
-    cats.forEach(c => { catCounts[c] = products.filter(p => p.category === c).length; });
+    cats.forEach(c => { catCounts[c] = brandProducts.filter(p => p.category === c).length; });
 
-    let html = `<button class="tab active" data-cat="">Semua (${products.length})</button>`;
+    let html = `<button class="tab active" data-cat="">Semua (${brandProducts.length})</button>`;
     cats.forEach(c => {
       html += `<button class="tab" data-cat="${escapeHtml(c)}">${escapeHtml(c)} (${catCounts[c]})</button>`;
     });
@@ -76,6 +93,7 @@
     const sort = sortSelect.value;
 
     filteredProducts = products.filter(p => {
+      if (p.brand !== activeBrand) return false;
       if (activeCategory && p.category !== activeCategory) return false;
       if (language && p.language !== language) return false;
       if (search && !p.name.toLowerCase().includes(search) && !(p.series || '').toLowerCase().includes(search)) return false;

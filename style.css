@@ -67,6 +67,38 @@ body {
   margin-top: 2px;
 }
 
+/* Brand Tabs */
+.brand-tabs {
+  display: flex;
+  gap: 0;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+}
+
+.brand-tab {
+  flex: 1;
+  padding: 14px 16px;
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s;
+  border-bottom: 3px solid transparent;
+  text-align: center;
+}
+
+.brand-tab:hover {
+  color: var(--text-primary);
+  background: rgba(255,255,255,0.03);
+}
+
+.brand-tab.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
 /* Filters */
 .filters {
   padding: 12px 16px;

@@ -9,7 +9,8 @@
     "price": 1076000,
     "order": 31,
     "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/infoproduct-img-1-high.jpg",
-    "release_date": "2025-03-28"
+    "release_date": "2025-03-28",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-047",
@@ -21,7 +22,8 @@
     "price": 1718750,
     "order": 35,
     "image": "https://nipponfigures.com/cdn/shop/files/Japanese_Pokemon_Cards_-_Abyss_Eye_M5_Booster_Box.webp?v=1776497303",
-    "release_date": "2025-11-14"
+    "release_date": "2025-11-14",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-046",
@@ -33,7 +35,8 @@
     "price": 4950000,
     "order": 39,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/348283/507755/Gamenerdzimagez1541__75512.1773759746.png?c=2",
-    "release_date": "2026-05-22"
+    "release_date": "2026-05-22",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-045",
@@ -45,7 +48,8 @@
     "price": 1100000,
     "order": 30,
     "image": "https://pokeunlimited.com/cdn/shop/files/pokemon-tcg-gemstone-horizons-vol1-booster-box-s-chinese-3653845.jpg?v=1778171605",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-036",
@@ -57,7 +61,8 @@
     "price": 1750000,
     "order": 34,
     "image": "https://d13eru2cpf9i9v.cloudfront.net/toco/17b21b68-3ecc-4113-8877-d1061abcea4e-20250806-155543-0.webp",
-    "release_date": "2025-07-25"
+    "release_date": "2025-07-25",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-037",
@@ -69,7 +74,8 @@
     "price": 1382213,
     "order": 36,
     "image": "https://www.apex-tcg.com/cdn/shop/files/ef80e2a317224721918187534d756075_tplv-t5fjg24jzw-origin-jpeg.jpg?v=1770641706",
-    "release_date": "2025-11-28"
+    "release_date": "2025-11-28",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-027",
@@ -81,7 +87,8 @@
     "price": 5514500,
     "order": 22,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/88821/329176/PKU85374-1__09541.1729873663.png?c=2",
-    "release_date": "2023-08-11"
+    "release_date": "2023-08-11",
+    "brand": "Pokemon"
   },
   {
     "id": "OP-BOX02",
@@ -92,8 +99,9 @@
     "stock": 1,
     "price": 4606250,
     "order": 24,
-    "image": "https://www.hobby-addicts.com/cdn/shop/files/OP05_1278x.jpg?v=1700638368",
-    "release_date": "2023-12-08"
+    "image": "https://en.onepiece-cardgame.com/renewal/images/products/boosters/op05/img_item01.webp",
+    "release_date": "2023-12-08",
+    "brand": "One Piece"
   },
   {
     "id": "OP-BOX01",
@@ -105,7 +113,8 @@
     "price": 10890000,
     "order": 35,
     "image": "https://en.onepiece-cardgame.com/products/boosters/op13/images/img_item01.webp",
-    "release_date": "2025-11-07"
+    "release_date": "2025-11-07",
+    "brand": "One Piece"
   },
   {
     "id": "BOX-040",
@@ -116,8 +125,9 @@
     "stock": 7,
     "price": 914550,
     "order": 33,
-    "image": "https://www.tcghobby.com/cdn/shop/files/img_item02_1.webp?crop=center&height=500&v=1776399292&width=600",
-    "release_date": "2025-07-26"
+    "image": "https://en.onepiece-cardgame.com/renewal/images/products/boosters/prb02/img_item01.webp",
+    "release_date": "2025-07-26",
+    "brand": "One Piece"
   },
   {
     "id": "BOX-026",
@@ -129,7 +139,8 @@
     "price": 8662500,
     "order": 21,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/67400/435918/Copy%5Fof%5FWebsite%5FImage%5FTemplate9999-1177%5F%5F34536.1755636663.png?c=2",
-    "release_date": "2023-06-09"
+    "release_date": "2023-06-09",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-041",
@@ -141,7 +152,8 @@
     "price": 6785250,
     "order": 35,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/329076/457209/Copy%5Fof%5FWebsite%5FImage%5FTemplate9999-7866%5F%5F92925.1759344287.png?c=2",
-    "release_date": "2025-11-14"
+    "release_date": "2025-11-14",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-044",
@@ -153,7 +165,8 @@
     "price": 3437500,
     "order": 19,
     "image": "https://flipsidegaming.com/cdn/shop/files/565252_in_1000x1000_580596ae-cba3-436d-99c5-a534357b649f_grande.jpg?v=1755937712",
-    "release_date": "2022-12-02"
+    "release_date": "2022-12-02",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-042",
@@ -165,7 +178,8 @@
     "price": 4537500,
     "order": 13,
     "image": "https://cdn11.bigcommerce.com/s-89ffd/images/stencil/728x728/products/98276/343085/4521329322698_00fd640fbf5ff23910d40baf7782ba40__84460.1638436979.jpg?c=2",
-    "release_date": "2021-12-03"
+    "release_date": "2021-12-03",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-043",
@@ -177,7 +191,8 @@
     "price": 2736250,
     "order": 8,
     "image": "https://hypercollectiblestcg.com/cdn/shop/files/OIP_38.webp?v=1762209798",
-    "release_date": "2020-11-20"
+    "release_date": "2020-11-20",
+    "brand": "Pokemon"
   },
   {
     "id": "BOX-039",
@@ -189,7 +204,8 @@
     "price": 2192350,
     "order": 29,
     "image": "https://primary.jwwb.nl/public/h/t/i/temp-zjpebgcobmaxydcmrfwb/4521329424828_l-high.jpg?enable-io=true&enable=upscale&crop=1%3A1&width=800",
-    "release_date": "2024-12-06"
+    "release_date": "2024-12-06",
+    "brand": "Pokemon"
   },
   {
     "id": "BUNDLE-008",
@@ -201,7 +217,8 @@
     "price": 3298762,
     "order": 23,
     "image": "https://collectorstore.com/cdn/shop/files/pokemon-151-booster-bundle-368828.jpg?v=1727284780",
-    "release_date": "2023-09-22"
+    "release_date": "2023-09-22",
+    "brand": "Pokemon"
   },
   {
     "id": "BUNDLE-018",
@@ -213,7 +230,8 @@
     "price": 1001250,
     "order": 32,
     "image": "https://target.scene7.com/is/image/Target/GUEST_3a795297-b431-4aeb-80fb-327192381e7f?wid=800&hei=800&qlt=80&fmt=pjpeg",
-    "release_date": "2025-05-30"
+    "release_date": "2025-05-30",
+    "brand": "Pokemon"
   },
   {
     "id": "BUNDLE-022",
@@ -225,7 +243,8 @@
     "price": 1950000,
     "order": 37,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/products/346515/images/503615/gamenerdzimagez266__26216.1771968622.380.500.png?c=2",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "BUNDLE-021",
@@ -237,7 +256,8 @@
     "price": 645600,
     "order": 38,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/320559/439210/Copy%5Fof%5FWebsite%5FImage%5FTemplate9999-2317%5F%5F79919.1756234903.png?c=2",
-    "release_date": "2026-03-27"
+    "release_date": "2026-03-27",
+    "brand": "Pokemon"
   },
   {
     "id": "BUNDLE-016",
@@ -249,7 +269,8 @@
     "price": 1452600,
     "order": 30,
     "image": "https://moon-whale.com/cdn/shop/files/P10343_100-10123_01.jpg?v=1758189200",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "BUNDLE-013",
@@ -261,7 +282,8 @@
     "price": 734250,
     "order": 27,
     "image": "https://www.hobby-addicts.com/cdn/shop/files/ShroudedFableBoosterBundle_800x.jpg?v=1716333763",
-    "release_date": "2024-08-02"
+    "release_date": "2024-08-02",
+    "brand": "Pokemon"
   },
   {
     "id": "BUNDLE-015",
@@ -273,7 +295,8 @@
     "price": 865089,
     "order": 29,
     "image": "https://gamersguildaz.com/cdn/shop/files/gamers-guild-az-wholesale-pokemon-tcg-sv08-surging-sparks-booster-bundle-street-date-11-08-2024-order-due-by-10-23-2024-price-19-24-pokemon-52940384043371.jpg",
-    "release_date": "2024-11-08"
+    "release_date": "2024-11-08",
+    "brand": "Pokemon"
   },
   {
     "id": "BUNDLE-023",
@@ -285,7 +308,8 @@
     "price": 2767079,
     "order": 29,
     "image": "https://www.cardstooges.com/cdn/shop/files/surging-sparks-etb-bundle_f0c07fdd-eb82-40e7-9cde-ecc100f31425.jpg?v=1759207396",
-    "release_date": "2024-11-08"
+    "release_date": "2024-11-08",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-034",
@@ -297,7 +321,8 @@
     "price": 15000000,
     "order": 23,
     "image": "https://moon-whale.com/cdn/shop/files/81Ned3gMNqL._AC_SX569.jpg?v=1740069108",
-    "release_date": "2023-09-22"
+    "release_date": "2023-09-22",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-057",
@@ -309,7 +334,8 @@
     "price": 75625000,
     "order": 2,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_99633bd1-1db7-4ac6-8ec4-5c587f0842c2.jpg?v=1692334676",
-    "release_date": "2016-11-02"
+    "release_date": "2016-11-02",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-052",
@@ -321,7 +347,8 @@
     "price": 10000000,
     "order": 14,
     "image": "https://www.stompinggroundstcg.com/cdn/shop/products/Celebrations-Box.png?v=1650931187",
-    "release_date": "2021-10-08"
+    "release_date": "2021-10-08",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-021",
@@ -333,7 +360,8 @@
     "price": 3712500,
     "order": 10,
     "image": "https://moonshotgamestore.com/cdn/shop/products/swsh05-elite-trainer-box-169-en.png?v=1613699150",
-    "release_date": "2021-03-19"
+    "release_date": "2021-03-19",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-045",
@@ -345,7 +373,8 @@
     "price": 2485393,
     "order": 33,
     "image": "https://moon-whale.com/cdn/shop/files/moonwhaleblacketb.png?v=1746608449",
-    "release_date": "2025-07-18"
+    "release_date": "2025-07-18",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-058",
@@ -357,7 +386,8 @@
     "price": 5775000,
     "order": 7,
     "image": "https://moon-whale.com/cdn/shop/files/moonwhaleblacketb.png?v=1746608449",
-    "release_date": "2020-02-07"
+    "release_date": "2020-02-07",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-051",
@@ -369,7 +399,8 @@
     "price": 8500000,
     "order": 15,
     "image": "https://moonshotgamestore.com/cdn/shop/products/pku85012_1__33091.1638313728_89db1b0b-6c79-4b3d-b875-bfa74d30cf7c.jpg?v=1645829354",
-    "release_date": "2022-02-25"
+    "release_date": "2022-02-25",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-025",
@@ -381,7 +412,8 @@
     "price": 4600000,
     "order": 15,
     "image": "https://moonshotgamestore.com/cdn/shop/products/pku85012_1__33091.1638313728_89db1b0b-6c79-4b3d-b875-bfa74d30cf7c.jpg?v=1645829354",
-    "release_date": "2022-02-25"
+    "release_date": "2022-02-25",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-003",
@@ -393,7 +425,8 @@
     "price": 7012500,
     "order": 3,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_cf2a6a31-3372-4226-873f-98a67317c8fb.jpg?v=1692327302",
-    "release_date": "2017-08-04"
+    "release_date": "2017-08-04",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-018",
@@ -405,7 +438,8 @@
     "price": 5300000,
     "order": 7,
     "image": "https://moonshotgamestore.com/cdn/shop/products/EliteTrainerBox.jpg?v=1597938948",
-    "release_date": "2020-09-25"
+    "release_date": "2020-09-25",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-053",
@@ -417,7 +451,8 @@
     "price": 2700000,
     "order": 39,
     "image": "https://moon-whale.com/cdn/shop/files/chaosrisingetb.webp?v=1773502958",
-    "release_date": "2026-05-22"
+    "release_date": "2026-05-22",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-022",
@@ -429,7 +464,8 @@
     "price": 3162500,
     "order": 11,
     "image": "https://blackmillcollectables.com/cdn/shop/products/chillingreignetb.jpg?v=1666724481",
-    "release_date": "2021-06-18"
+    "release_date": "2021-06-18",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-013",
@@ -441,7 +477,8 @@
     "price": 37812500,
     "order": 6,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_4d58a6c5-adf1-457a-a2db-dbffe72abdfb.jpg?v=1692343776",
-    "release_date": "2019-11-01"
+    "release_date": "2019-11-01",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-030",
@@ -453,7 +490,8 @@
     "price": 5732800,
     "order": 19,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/65312/397902/Copy%5Fof%5FWebsite%5FImage%5FTemplate%5F-%5F2025-04-28T145401.019%5F%5F07441.1745870065.png?c=2",
-    "release_date": "2023-01-20"
+    "release_date": "2023-01-20",
+    "brand": "Pokemon"
   },
   {
     "id": "ETBP-001",
@@ -465,7 +503,8 @@
     "price": 12289062,
     "order": 19,
     "image": "https://common-lands.com/cdn/shop/files/PokemonCrownZenithPokemonCenterEliteTrainerBoxPlus_grande.png?v=1743647270",
-    "release_date": "2023-01-20"
+    "release_date": "2023-01-20",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-044",
@@ -477,7 +516,8 @@
     "price": 4500000,
     "order": 32,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/products/303482/images/396435/PKU10652-1__07618.1745271506.380.500.png?c=2",
-    "release_date": "2025-05-30"
+    "release_date": "2025-05-30",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-023",
@@ -489,7 +529,8 @@
     "price": 27000000,
     "order": 12,
     "image": "https://www.gamersgauntlet.net/cdn/shop/files/245352_in_1000x1000_f69a5610-3e6c-404d-bb3e-bbc7a6db5693.jpg?v=1752019258",
-    "release_date": "2021-08-27"
+    "release_date": "2021-08-27",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-024",
@@ -501,7 +542,8 @@
     "price": 9800000,
     "order": 13,
     "image": "https://moonshotgamestore.com/cdn/shop/products/Pokemon_TCG_Sword_Shield_Fusion_Strike_Elite_Trainer_Box.png?v=1635176762",
-    "release_date": "2021-11-12"
+    "release_date": "2021-11-12",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-012",
@@ -513,7 +555,8 @@
     "price": 10112500,
     "order": 5,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_a293d24c-037b-4e48-ac31-5cfc985e560f.jpg?v=1692328567",
-    "release_date": "2019-08-23"
+    "release_date": "2019-08-23",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-043",
@@ -525,7 +568,8 @@
     "price": 3000000,
     "order": 31,
     "image": "https://moon-whale.com/cdn/shop/files/journeytogetheretb.webp?v=1738421920",
-    "release_date": "2025-03-28"
+    "release_date": "2025-03-28",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-028",
@@ -537,7 +581,8 @@
     "price": 6700000,
     "order": 17,
     "image": "https://moonshotgamestore.com/cdn/shop/products/pokemonlostoriginelitetrainer__24286.1656094055_29edba1f-7c07-4e5c-9a77-c8064876e3fa.jpg?v=1662755059",
-    "release_date": "2022-09-09"
+    "release_date": "2022-09-09",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-048",
@@ -549,7 +594,8 @@
     "price": 3600000,
     "order": 37,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/338299/484060/Gamenerdzimage9999-1568__04457.1767641888.png?c=2",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-047",
@@ -561,7 +607,8 @@
     "price": 3800000,
     "order": 38,
     "image": "https://moon-whale.com/cdn/shop/files/perfectorderetb.webp?v=1773501792",
-    "release_date": "2026-03-27"
+    "release_date": "2026-03-27",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-033",
@@ -573,7 +620,8 @@
     "price": 8800000,
     "order": 22,
     "image": "https://moonshotgamestore.com/cdn/shop/files/NDPKSV3ET_1_ee70b91a-f499-4ac6-8c6e-f24fd22e99b3.jpg?v=1691756277",
-    "release_date": "2023-08-11"
+    "release_date": "2023-08-11",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-032",
@@ -585,7 +633,8 @@
     "price": 4821667,
     "order": 21,
     "image": "https://moonshotgamestore.com/cdn/shop/files/NDPKSV2ET_0d14743c-dfc7-445e-bd9b-7fc0f07b1193.jpg?v=1686313220",
-    "release_date": "2023-06-09"
+    "release_date": "2023-06-09",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-036",
@@ -597,7 +646,8 @@
     "price": 9000000,
     "order": 25,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/products/175241/images/397855/Copy_of_Website_Image_Template_-_2025-04-28T125020.414__64093.1745863023.380.500.png?c=2",
-    "release_date": "2024-01-26"
+    "release_date": "2024-01-26",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-050",
@@ -609,7 +659,8 @@
     "price": 16000000,
     "order": 25,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/products/175241/images/397855/Copy_of_Website_Image_Template_-_2025-04-28T125020.414__64093.1745863023.380.500.png?c=2",
-    "release_date": "2024-01-26"
+    "release_date": "2024-01-26",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-035",
@@ -621,7 +672,8 @@
     "price": 2184625,
     "order": 24,
     "image": "https://moon-whale.com/cdn/shop/files/918MEzNZnfL._AC_SX569.jpg?v=1740065196",
-    "release_date": "2023-11-03"
+    "release_date": "2023-11-03",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-049",
@@ -633,7 +685,8 @@
     "price": 3600000,
     "order": 35,
     "image": "https://moon-whale.com/cdn/shop/files/Phantasmal_flames_etb1.jpg?v=1757001852",
-    "release_date": "2025-11-14"
+    "release_date": "2025-11-14",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-055",
@@ -645,7 +698,8 @@
     "price": 5885000,
     "order": 16,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_547b6d9a-b80c-450a-ade5-dc0608942b50.jpg?v=1692332217",
-    "release_date": "2022-07-01"
+    "release_date": "2022-07-01",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-060",
@@ -657,7 +711,8 @@
     "price": 68062500,
     "order": 1,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_19c3a4fd-1201-40da-a01d-d01797fe9cfb.jpg?v=1692319439",
-    "release_date": "2015-11-04"
+    "release_date": "2015-11-04",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-027",
@@ -669,7 +724,8 @@
     "price": 2750000,
     "order": 16,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_547b6d9a-b80c-450a-ade5-dc0608942b50.jpg?v=1692332217",
-    "release_date": "2022-07-01"
+    "release_date": "2022-07-01",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-042",
@@ -681,7 +737,8 @@
     "price": 4200000,
     "order": 30,
     "image": "https://moon-whale.com/cdn/shop/files/81DG4MWqGAL._AC_SL1500.jpg?v=1738346469",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-031",
@@ -693,7 +750,8 @@
     "price": 2887500,
     "order": 20,
     "image": "https://poke-collect.com/cdn/shop/files/7793339990199_grande.png?v=1721432162",
-    "release_date": "2023-03-31"
+    "release_date": "2023-03-31",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-020",
@@ -705,7 +763,8 @@
     "price": 2750000,
     "order": 9,
     "image": "https://moonshotgamestore.com/cdn/shop/products/ShiningFates_Elite_Trainer_Box_EN-1201x1148-a0e6a40.jpg?v=1609262404",
-    "release_date": "2021-02-19"
+    "release_date": "2021-02-19",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-039",
@@ -717,7 +776,8 @@
     "price": 2500000,
     "order": 27,
     "image": "https://moon-whale.com/cdn/shop/files/91xFLmibUYL._AC_SL1500.jpg?v=1740064337",
-    "release_date": "2024-08-02"
+    "release_date": "2024-08-02",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-029",
@@ -729,7 +789,8 @@
     "price": 4500000,
     "order": 18,
     "image": "https://www.thegamestore.com/cdn/shop/files/pokemon-sword-shield-silver-tempest-elite-trainer-box-retail_grande.webp?v=1731777706",
-    "release_date": "2022-11-11"
+    "release_date": "2022-11-11",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-040",
@@ -741,7 +802,8 @@
     "price": 3500000,
     "order": 28,
     "image": "https://moon-whale.com/cdn/shop/files/917wEuTaEbL._AC_SL1500.jpg?v=1740059571",
-    "release_date": "2024-09-13"
+    "release_date": "2024-09-13",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-001",
@@ -753,7 +815,8 @@
     "price": 4583333,
     "order": 2,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_9cce6f4b-b69c-49bc-8e87-5ddd585e6c5a.jpg?v=1692325216",
-    "release_date": "2017-02-03"
+    "release_date": "2017-02-03",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-041",
@@ -765,7 +828,8 @@
     "price": 3500000,
     "order": 29,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/245956/326898/a4032089-47c9-4452-8d4a-d9dbdd9561ac__19458.1726525414.png?c=2",
-    "release_date": "2024-11-08"
+    "release_date": "2024-11-08",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-019",
@@ -777,7 +841,8 @@
     "price": 4125000,
     "order": 8,
     "image": "https://moonshotgamestore.com/cdn/shop/products/VividVoltageEliteTrainerBox.jpg?v=1603230142",
-    "release_date": "2020-11-13"
+    "release_date": "2020-11-13",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-059",
@@ -789,7 +854,8 @@
     "price": 5225000,
     "order": 7,
     "image": "https://moon-whale.com/cdn/shop/files/moonwhalewhiteETB.png?v=1746608149",
-    "release_date": "2020-02-07"
+    "release_date": "2020-02-07",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-046",
@@ -801,7 +867,8 @@
     "price": 2293586,
     "order": 33,
     "image": "https://moon-whale.com/cdn/shop/files/moonwhalewhiteETB.png?v=1746608149",
-    "release_date": "2025-07-18"
+    "release_date": "2025-07-18",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-056",
@@ -813,7 +880,8 @@
     "price": 15262500,
     "order": 2,
     "image": "https://thehobhub.com/cdn/shop/products/PokemonTCGXYEvolutionsEliteTrainerBox.jpg?v=1630677752",
-    "release_date": "2016-11-02"
+    "release_date": "2016-11-02",
+    "brand": "Pokemon"
   },
   {
     "id": "ETB-054",
@@ -825,7 +893,8 @@
     "price": 17875000,
     "order": 2,
     "image": "https://thehobhub.com/cdn/shop/products/PokemonTCGXYEvolutionsEliteTrainerBox.jpg?v=1630677752",
-    "release_date": "2016-11-02"
+    "release_date": "2016-11-02",
+    "brand": "Pokemon"
   },
   {
     "id": "ETBP-002",
@@ -837,7 +906,8 @@
     "price": 4812500,
     "order": 8,
     "image": "https://www.nexus-entertainment.com/cdn/shop/files/ThePokemonTCGSword_ShieldEliteTrainerBoxPlus_Zacian.jpg?v=1780084448",
-    "release_date": "2020-11-20"
+    "release_date": "2020-11-20",
+    "brand": "Pokemon"
   },
   {
     "id": "ETBP-003",
@@ -849,7 +919,8 @@
     "price": 4812500,
     "order": 8,
     "image": "https://www.pokeorder.com/cdn/shop/products/unnamed_e6fd54f3-2078-453e-a99d-19ee56c0b2f8.jpg?v=1692327767",
-    "release_date": "2020-11-20"
+    "release_date": "2020-11-20",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-034",
@@ -861,7 +932,8 @@
     "price": 524550,
     "order": 23,
     "image": "https://common-lands.com/cdn/shop/files/151boosterpack.png?v=1778432410",
-    "release_date": "2023-09-22"
+    "release_date": "2023-09-22",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-057",
@@ -873,7 +945,8 @@
     "price": 618750,
     "order": 14,
     "image": "https://graygauntletgames.com/cdn/shop/products/c424cce9-ca35-57b5-bf61-c0283eb7bc6d.jpg?v=1696025077",
-    "release_date": "2021-10-08"
+    "release_date": "2021-10-08",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-045",
@@ -885,7 +958,8 @@
     "price": 178143,
     "order": 33,
     "image": "https://www.japan2uk.com/cdn/shop/files/Pokemon_Black_Bolt_English_Booster_Pack.png?v=1753198324",
-    "release_date": "2025-07-18"
+    "release_date": "2025-07-18",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-025",
@@ -897,7 +971,8 @@
     "price": 239912,
     "order": 15,
     "image": "https://www.pandorasboox.ca/cdn/shop/products/P7914_180-80997_04_full.jpg?v=1645821158",
-    "release_date": "2022-02-25"
+    "release_date": "2022-02-25",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-003",
@@ -909,7 +984,8 @@
     "price": 1031250,
     "order": 3,
     "image": "https://pokemonplug.com/cdn/shop/products/BurningShadowsBoosterPacksLoose.jpg?v=1599758854",
-    "release_date": "2017-08-04"
+    "release_date": "2017-08-04",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-022",
@@ -921,7 +997,8 @@
     "price": 188300,
     "order": 11,
     "image": "https://skyfoxgames.com/cdn/shop/products/ChillingBoosterPack_grande.png?v=1634499805",
-    "release_date": "2021-06-18"
+    "release_date": "2021-06-18",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-030",
@@ -933,7 +1010,8 @@
     "price": 426250,
     "order": 19,
     "image": "https://retrogamerepairshop.com/cdn/shop/products/759bacc5-2e54-50dd-b0fd-15ab73175422.jpg?v=1673452833",
-    "release_date": "2023-01-20"
+    "release_date": "2023-01-20",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-044",
@@ -945,7 +1023,8 @@
     "price": 146980,
     "order": 32,
     "image": "https://www.thetrainercourt.com/cdn/shop/files/pokemon-destined-rivals-booster-pack-1.png?v=1767637598",
-    "release_date": "2025-05-30"
+    "release_date": "2025-05-30",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-023",
@@ -957,7 +1036,8 @@
     "price": 807000,
     "order": 12,
     "image": "https://pokedread.com/cdn/shop/files/Pokemon_TCG_Sword_Shield_Evolving_Skies_Booster_Wrap_Umbreon_png.webp?v=1690237363",
-    "release_date": "2021-08-27"
+    "release_date": "2021-08-27",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-024",
@@ -969,7 +1049,8 @@
     "price": 340339,
     "order": 13,
     "image": "https://www.justahobby.store/cdn/shop/files/P7737_179-80930_04.jpg?v=1711723451",
-    "release_date": "2021-11-12"
+    "release_date": "2021-11-12",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-043",
@@ -981,7 +1062,8 @@
     "price": 105037,
     "order": 31,
     "image": "https://www.reformedpokelab.com/cdn/shop/files/RPLLowRes-131.jpg?v=1744502082",
-    "release_date": "2025-03-28"
+    "release_date": "2025-03-28",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-028",
@@ -993,7 +1075,8 @@
     "price": 385000,
     "order": 17,
     "image": "https://www.thetrainercourt.com/cdn/shop/files/pokemon-lost-origin-booster-packs.jpg?v=1732607984",
-    "release_date": "2022-09-09"
+    "release_date": "2022-09-09",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-008",
@@ -1005,7 +1088,8 @@
     "price": 1306250,
     "order": 4,
     "image": "https://www.thetrainercourt.com/cdn/shop/files/Untitleddesign_45_21f4b808-94b8-4799-b15c-d48ba2ee46b0.jpg?v=1722545816",
-    "release_date": "2018-11-02"
+    "release_date": "2018-11-02",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-049",
@@ -1017,7 +1101,8 @@
     "price": 102800,
     "order": 36,
     "image": "https://www.pokeboxusa.com/cdn/shop/files/Screenshot2025-12-01173306.png?v=1764653582",
-    "release_date": "2025-11-28"
+    "release_date": "2025-11-28",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-055",
@@ -1029,7 +1114,8 @@
     "price": 121050,
     "order": 37,
     "image": "https://packspottcg.com/cdn/shop/files/8_24978be8-a736-4e9d-9782-8e4377317907.png?v=1754373254",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-048",
@@ -1041,7 +1127,8 @@
     "price": 233839,
     "order": 37,
     "image": "https://nostalgiatcg.com/cdn/shop/files/Singles-2025-11-26T110212_235_png.webp?v=1769079230",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-050",
@@ -1053,7 +1140,8 @@
     "price": 28918,
     "order": 33,
     "image": "https://www.pokeboxusa.com/cdn/shop/files/Screenshot2025-08-02155049.png?v=1754175059",
-    "release_date": "2025-08-01"
+    "release_date": "2025-08-01",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-056",
@@ -1065,7 +1153,8 @@
     "price": 32952,
     "order": 33,
     "image": "https://www.danireon.com/cdn/shop/files/pokemon-mega-brave-booster-pack-1_298x298_crop_center_dae11332-557e-4030-8fe3-447aefa7ad7c.webp?v=1754418597",
-    "release_date": "2025-08-01"
+    "release_date": "2025-08-01",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-033",
@@ -1077,7 +1166,8 @@
     "price": 158905,
     "order": 22,
     "image": "https://pokedread.com/cdn/shop/files/obsidianflamesbooster.webp?v=1691505913",
-    "release_date": "2023-08-11"
+    "release_date": "2023-08-11",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-032",
@@ -1089,7 +1179,8 @@
     "price": 199980,
     "order": 21,
     "image": "https://www.pokesama.com/cdn/shop/files/PaldeaEvolvedBoosterPackSingle.png?v=1726695774",
-    "release_date": "2023-06-09"
+    "release_date": "2023-06-09",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-036",
@@ -1101,7 +1192,8 @@
     "price": 315208,
     "order": 25,
     "image": "https://common-lands.com/cdn/shop/files/paldeanfatesboosterpack_grande.png?v=1747753392",
-    "release_date": "2024-01-26"
+    "release_date": "2024-01-26",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-035",
@@ -1113,7 +1205,8 @@
     "price": 127964,
     "order": 24,
     "image": "https://www.thetrainercourt.com/cdn/shop/files/pokemon-paradox-rift-booster-pack-1.png?v=1776203268",
-    "release_date": "2023-11-03"
+    "release_date": "2023-11-03",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-054",
@@ -1125,7 +1218,8 @@
     "price": 188300,
     "order": 35,
     "image": "https://www.cardcollector2.com/cdn/shop/files/4521329431529_2_5a29af10-12da-4a91-a9ee-bd1a4f7239e3.png?v=1774991926",
-    "release_date": "2025-11-14"
+    "release_date": "2025-11-14",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-042",
@@ -1137,7 +1231,8 @@
     "price": 205972,
     "order": 30,
     "image": "https://www.thetrainercourt.com/cdn/shop/files/Untitled_design_65.jpg?v=1733256509",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-031",
@@ -1149,7 +1244,8 @@
     "price": 137500,
     "order": 20,
     "image": "https://poke-collect.com/cdn/shop/files/svbp.png?v=1722980100",
-    "release_date": "2023-03-31"
+    "release_date": "2023-03-31",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-020",
@@ -1161,7 +1257,8 @@
     "price": 288750,
     "order": 9,
     "image": "https://www.thetrainercourt.com/cdn/shop/files/pokemon-shining-fates-booster-pack-1.png?v=1767637574",
-    "release_date": "2021-02-19"
+    "release_date": "2021-02-19",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-029",
@@ -1173,7 +1270,8 @@
     "price": 211559,
     "order": 18,
     "image": "https://packspottcg.com/cdn/shop/files/SilverTempestBoosterPack.png?v=1750401358",
-    "release_date": "2022-11-11"
+    "release_date": "2022-11-11",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-041",
@@ -1185,7 +1283,8 @@
     "price": 127775,
     "order": 29,
     "image": "https://www.thetrainercourt.com/cdn/shop/files/pokemon-surging-sparks-booster-pack-1.png?v=1769544799",
-    "release_date": "2024-11-08"
+    "release_date": "2024-11-08",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-038",
@@ -1197,7 +1296,8 @@
     "price": 148153,
     "order": 26,
     "image": "https://www.thetrainercourt.com/cdn/shop/files/image.webp?v=1724774753",
-    "release_date": "2024-05-24"
+    "release_date": "2024-05-24",
+    "brand": "Pokemon"
   },
   {
     "id": "LP-046",
@@ -1209,7 +1309,8 @@
     "price": 161600,
     "order": 33,
     "image": "https://www.japan2uk.com/cdn/shop/files/Pokemon_White_Flare_English_Booster_Pack.png?v=1753198325",
-    "release_date": "2025-07-18"
+    "release_date": "2025-07-18",
+    "brand": "Pokemon"
   },
   {
     "id": "POS-002",
@@ -1221,7 +1322,8 @@
     "price": 2275094,
     "order": 37,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/345573/499351/Gamenerdzimage9999-6150__59755.1770316291.png?c=2",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "POS-003",
@@ -1233,7 +1335,8 @@
     "price": 2371640,
     "order": 37,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/345573/499351/Gamenerdzimage9999-6150__59755.1770316291.png?c=2",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "POS-001",
@@ -1245,7 +1348,8 @@
     "price": 741235,
     "order": 30,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/320568/439249/Copy%5Fof%5FWebsite%5FImage%5FTemplate9999-2355%5F%5F95964.1756240544.png?c=2",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "SLV-002",
@@ -1257,7 +1361,8 @@
     "price": 121050,
     "order": 37,
     "image": "https://poke-collect.com/cdn/shop/files/megasleeved_f31311f6-82a6-4c01-954c-01bfc8fbcab5.png?v=1756930818",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "SLV-001",
@@ -1269,7 +1374,8 @@
     "price": 201750,
     "order": 35,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/500x659/products/329078/457204/Copy_of_Website_Image_Template9999-7855__51655.1759343389.png?c=2",
-    "release_date": "2025-11-14"
+    "release_date": "2025-11-14",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-027",
@@ -1281,7 +1387,8 @@
     "price": 24750000,
     "order": 37,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/346010/501578/Gamenerdzimage9999-7771__23404.1771359000.png?c=2",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-022",
@@ -1293,7 +1400,8 @@
     "price": 1062821,
     "order": 30,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/345735/500289/Gamenerdzimage9999-6775__85885.1770743915.png?c=2",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-028",
@@ -1305,7 +1413,8 @@
     "price": 206250,
     "order": 38,
     "image": "https://www.phdgames.com/wp-content/uploads/elementor/thumbs/Pokemon_PerfectOrder_01_booster-box-rhlsv79jv5yngbct5f1p3x8a1cpb7th7xz6hd0csn4.jpg",
-    "release_date": "2026-03-27"
+    "release_date": "2026-03-27",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-026",
@@ -1317,7 +1426,8 @@
     "price": 914550,
     "order": 37,
     "image": "https://gchobby.com/cdn/shop/files/MEGAPREMIUM.png?v=1753925637",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-020",
@@ -1329,7 +1439,8 @@
     "price": 481250,
     "order": 30,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/320568/439249/Copy%5Fof%5FWebsite%5FImage%5FTemplate9999-2355%5F%5F95964.1756240544.png?c=2",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-024",
@@ -1341,7 +1452,8 @@
     "price": 3654021,
     "order": 30,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/320568/439249/Copy%5Fof%5FWebsite%5FImage%5FTemplate9999-2355%5F%5F95964.1756240544.png?c=2",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-025",
@@ -1353,7 +1465,8 @@
     "price": 3344250,
     "order": 12,
     "image": "https://www.pokeorder.com/cdn/shop/files/ch.jpg?v=1702082020",
-    "release_date": "2021-08-20"
+    "release_date": "2021-08-20",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-029",
@@ -1365,7 +1478,8 @@
     "price": 2887500,
     "order": 14,
     "release_date": "2021-10-08",
-    "image": "https://nutmeggames.com/cdn/shop/products/8547235e-19b2-5441-b11f-239c48cf4cec_6143fcfb-21f7-4c02-b867-36c6e221852e_1024x.jpg?v=1696025352"
+    "image": "https://nutmeggames.com/cdn/shop/products/8547235e-19b2-5441-b11f-239c48cf4cec_6143fcfb-21f7-4c02-b867-36c6e221852e_1024x.jpg?v=1696025352",
+    "brand": "Pokemon"
   },
   {
     "id": "SP-023",
@@ -1377,7 +1491,8 @@
     "price": 7412350,
     "order": 19,
     "release_date": "2023-01-01",
-    "image": "https://mystictcg.com/cdn/shop/files/T_1024x1024.png?v=1780623526"
+    "image": "https://mystictcg.com/cdn/shop/files/T_1024x1024.png?v=1780623526",
+    "brand": "Pokemon"
   },
   {
     "id": "TS-01",
@@ -1389,7 +1504,8 @@
     "price": 618884,
     "order": 30,
     "image": "https://joshscards.com/cdn/shop/files/593453.jpg?v=1732736371",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "TS-03",
@@ -1401,7 +1517,8 @@
     "price": 618884,
     "order": 30,
     "image": "https://joshscards.com/cdn/shop/files/593450.jpg?v=1732736376",
-    "release_date": "2025-01-17"
+    "release_date": "2025-01-17",
+    "brand": "Pokemon"
   },
   {
     "id": "UPC-005",
@@ -1413,7 +1530,8 @@
     "price": 3362284,
     "order": 37,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/329081/457194/Copy%5Fof%5FWebsite%5FImage%5FTemplate9999-7843%5F%5F66364.1759340689.png?c=2",
-    "release_date": "2026-01-30"
+    "release_date": "2026-01-30",
+    "brand": "Pokemon"
   },
   {
     "id": "UPC-006",
@@ -1425,7 +1543,8 @@
     "price": 5380000,
     "order": 36,
     "image": "https://pixagaming.com/cdn/shop/files/Pokemon-Trading-Card-Game-Team-Rocket-Moltres-ex-Ultra-Premium-Collection_1.jpg?v=1766169196",
-    "release_date": "2025-11-28"
+    "release_date": "2025-11-28",
+    "brand": "Pokemon"
   },
   {
     "id": "UPC-004",
@@ -1437,7 +1556,8 @@
     "price": 16837500,
     "order": 23,
     "image": "https://cdn11.bigcommerce.com/s-ua4dd/images/stencil/1280x1280/products/92163/345392/290-85541-1__28091.1736875842.png?c=2",
-    "release_date": "2023-09-22"
+    "release_date": "2023-09-22",
+    "brand": "Pokemon"
   },
   {
     "id": "UPC-001",
@@ -1449,7 +1569,8 @@
     "price": 9955625,
     "order": 8,
     "image": "https://www.kasecollect.com/cdn/shop/products/Sword-Shield_Ultra_Premium_Collection_OpenView_US_EN-1500x502-475843e.jpg?v=1604041820",
-    "release_date": "2020-11-20"
+    "release_date": "2020-11-20",
+    "brand": "Pokemon"
   },
   {
     "id": "UPC-003",
@@ -1461,6 +1582,7 @@
     "price": 9828000,
     "order": 18,
     "image": "https://www.pokeorder.com/cdn/shop/files/ch.jpg?v=1702082020&width=1920",
-    "release_date": "2022-10-28"
+    "release_date": "2022-10-28",
+    "brand": "Pokemon"
   }
 ]
