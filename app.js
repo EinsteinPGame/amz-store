@@ -92,11 +92,19 @@
     const language = languageFilter.value;
     const sort = sortSelect.value;
 
+    // When searching, auto-switch to "Semua" so results aren't limited to one category
+    if (search && activeCategory) {
+      activeCategory = '';
+      tabsContainer.querySelectorAll('.tab').forEach(b => {
+        b.classList.toggle('active', b.dataset.cat === '');
+      });
+    }
+
     filteredProducts = products.filter(p => {
       if (p.brand !== activeBrand) return false;
       if (activeCategory && p.category !== activeCategory) return false;
       if (language && p.language !== language) return false;
-      if (search && !p.name.toLowerCase().includes(search) && !(p.series || '').toLowerCase().includes(search)) return false;
+      if (search && !p.name.toLowerCase().includes(search) && !(p.series || '').toLowerCase().includes(search) && !p.category.toLowerCase().includes(search)) return false;
       return true;
     });
 
